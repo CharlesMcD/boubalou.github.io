@@ -1,0 +1,1390 @@
+[
+    {
+        "startTime": "2015-09-22T20:30:00Z",
+        "endTime": "2015-09-22T21:00:00Z",
+        "channelId": "CTYMH",
+        "rating": "BCTV-PG",
+        "showType": "SERIES",
+        "program": {
+            "programId": "10230498",
+            "title": "Celebrity Name Game",
+            "episodeId": "5091",
+            "seasonNumber": 1,
+            "episodeNumber": 84,
+            "artworks": [
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "16:9",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb6c/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "2:3",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb6f/{resolution}.jpg",
+                    "width": 960,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "2:3",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb71/{resolution}.jpg",
+                    "width": 960,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "3:4",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb72/{resolution}.jpg",
+                    "width": 1080,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "16:9",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb73/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "3:4",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb74/{resolution}.jpg",
+                    "width": 1080,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "4:3",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb70/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_LOGO",
+                    "ratio": "4:3",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb6e/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "4:3",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb6d/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                }
+            ],
+            "seriesId": "10911965-en",
+            "pvrSeriesId": "491692"
+        },
+        "new": false
+    },
+    {
+        "startTime": "2015-09-23T02:00:00Z",
+        "endTime": "2015-09-23T02:30:00Z",
+        "channelId": "CTYHT",
+        "rating": null,
+        "showType": "SPECIAL",
+        "program": {
+            "programId": "10383571",
+            "title": "Empire Season 2: Game On",
+            "artworks": [
+                {
+                    "type": "MOVIE_ICONIC",
+                    "ratio": "2:3",
+                    "url": "programs/S/H/0/2/2/4/5/7/5/9/0/0/0/0/55d310534cb44490bacb5cef/{resolution}.jpg",
+                    "width": 960,
+                    "height": 1440
+                },
+                {
+                    "type": "MOVIE_ICONIC",
+                    "ratio": "4:3",
+                    "url": "programs/S/H/0/2/2/4/5/7/5/9/0/0/0/0/55d310534cb44490bacb5cf1/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "MOVIE_ICONIC",
+                    "ratio": "3:4",
+                    "url": "programs/S/H/0/2/2/4/5/7/5/9/0/0/0/0/55d310534cb44490bacb5cee/{resolution}.jpg",
+                    "width": 1080,
+                    "height": 1440
+                },
+                {
+                    "type": "MOVIE_ICONIC",
+                    "ratio": "16:9",
+                    "url": "programs/S/H/0/2/2/4/5/7/5/9/0/0/0/0/55d310534cb44490bacb5cf0/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                }
+            ],
+            "seriesId": "12029013-en",
+            "pvrSeriesId": "12245759"
+        },
+        "new": true
+    },
+    {
+        "startTime": "2015-09-23T02:00:00Z",
+        "endTime": "2015-09-23T02:30:00Z",
+        "channelId": "CTYMH",
+        "rating": null,
+        "showType": "SPECIAL",
+        "program": {
+            "programId": "10383571",
+            "title": "Empire Season 2: Game On",
+            "artworks": [
+                {
+                    "type": "MOVIE_ICONIC",
+                    "ratio": "2:3",
+                    "url": "programs/S/H/0/2/2/4/5/7/5/9/0/0/0/0/55d310534cb44490bacb5cef/{resolution}.jpg",
+                    "width": 960,
+                    "height": 1440
+                },
+                {
+                    "type": "MOVIE_ICONIC",
+                    "ratio": "4:3",
+                    "url": "programs/S/H/0/2/2/4/5/7/5/9/0/0/0/0/55d310534cb44490bacb5cf1/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "MOVIE_ICONIC",
+                    "ratio": "3:4",
+                    "url": "programs/S/H/0/2/2/4/5/7/5/9/0/0/0/0/55d310534cb44490bacb5cee/{resolution}.jpg",
+                    "width": 1080,
+                    "height": 1440
+                },
+                {
+                    "type": "MOVIE_ICONIC",
+                    "ratio": "16:9",
+                    "url": "programs/S/H/0/2/2/4/5/7/5/9/0/0/0/0/55d310534cb44490bacb5cf0/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                }
+            ],
+            "seriesId": "12029013-en",
+            "pvrSeriesId": "12245759"
+        },
+        "new": false
+    },
+    {
+        "startTime": "2015-09-22T21:00:00Z",
+        "endTime": "2015-09-22T22:00:00Z",
+        "channelId": "NBAHD",
+        "rating": null,
+        "showType": "SERIES",
+        "program": {
+            "programId": "10375958",
+            "title": "Raptors Top 10 Games",
+            "episodeId": "5013",
+            "episodeTitle": "2014/15 No. 8: Raptors vs. Cavaliers",
+            "artworks": [],
+            "seriesId": "9300211-en",
+            "pvrSeriesId": "11577102"
+        },
+        "new": false
+    },
+    {
+        "startTime": "2015-09-22T21:30:00Z",
+        "endTime": "2015-09-22T22:30:00Z",
+        "channelId": "LFSHD",
+        "rating": null,
+        "showType": "SERIES",
+        "program": {
+            "programId": "10399161",
+            "title": "Game in an Hour",
+            "episodeId": "5480",
+            "episodeTitle": "Ottawa Senators at Toronto Maple Leafs",
+            "artworks": [],
+            "seriesId": "8313232-en",
+            "pvrSeriesId": "98189"
+        },
+        "new": false
+    },
+    {
+        "startTime": "2015-09-22T21:30:00Z",
+        "endTime": "2015-09-22T22:00:00Z",
+        "channelId": "FNTSH",
+        "rating": null,
+        "showType": "SERIES",
+        "program": {
+            "programId": "10245033",
+            "title": "Game Time Decisions",
+            "artworks": [],
+            "seriesId": "8290594-en",
+            "pvrSeriesId": "394770"
+        },
+        "new": false
+    },
+    {
+        "startTime": "2015-09-22T22:00:00Z",
+        "endTime": "2015-09-22T22:30:00Z",
+        "channelId": "WNYOH",
+        "rating": "BCTV-PG",
+        "showType": "SERIES",
+        "program": {
+            "programId": "10393926",
+            "title": "Celebrity Name Game",
+            "episodeId": "5183",
+            "seasonNumber": 2,
+            "episodeNumber": 2,
+            "artworks": [
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "16:9",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb6c/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "2:3",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb6f/{resolution}.jpg",
+                    "width": 960,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "2:3",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb71/{resolution}.jpg",
+                    "width": 960,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "3:4",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb72/{resolution}.jpg",
+                    "width": 1080,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "16:9",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb73/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "3:4",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb74/{resolution}.jpg",
+                    "width": 1080,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "4:3",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb70/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_LOGO",
+                    "ratio": "4:3",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb6e/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "4:3",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb6d/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                }
+            ],
+            "seriesId": "10911965-en",
+            "pvrSeriesId": "491692"
+        },
+        "new": true
+    },
+    {
+        "startTime": "2015-09-22T22:00:00Z",
+        "endTime": "2015-09-22T23:00:00Z",
+        "channelId": "NBAHD",
+        "rating": null,
+        "showType": "SERIES",
+        "program": {
+            "programId": "10375960",
+            "title": "Raptors Top 10 Games",
+            "episodeId": "5014",
+            "episodeTitle": "2014/15 No. 7: Raptors at Nets",
+            "artworks": [],
+            "seriesId": "9300211-en",
+            "pvrSeriesId": "11577102"
+        },
+        "new": false
+    },
+    {
+        "startTime": "2015-09-22T22:00:00Z",
+        "endTime": "2015-09-22T23:00:00Z",
+        "channelId": "C+I",
+        "rating": null,
+        "showType": "SERIES",
+        "program": {
+            "programId": "10304449",
+            "title": "Gangland Undercover",
+            "episodeId": "5004",
+            "seasonNumber": 1,
+            "episodeNumber": 4,
+            "episodeTitle": "Dangerous Game",
+            "artworks": [
+                {
+                    "type": "SERIES_CAST_ENSEMBLE",
+                    "ratio": "16:9",
+                    "url": "series/1/1/4/1/3/7/8/3/-/e/n/54e47c5d4cb41610489f978c/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "16:9",
+                    "url": "series/1/1/4/1/3/7/8/3/-/e/n/54e47c5d4cb41610489f978e/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "2:3",
+                    "url": "series/1/1/4/1/3/7/8/3/-/e/n/54e47c5d4cb41610489f9790/{resolution}.jpg",
+                    "width": 960,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_CAST_ENSEMBLE",
+                    "ratio": "4:3",
+                    "url": "series/1/1/4/1/3/7/8/3/-/e/n/54e47c5d4cb41610489f9792/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "3:4",
+                    "url": "series/1/1/4/1/3/7/8/3/-/e/n/54e47c5d4cb41610489f9789/{resolution}.jpg",
+                    "width": 1080,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_LOGO",
+                    "ratio": "4:3",
+                    "url": "series/1/1/4/1/3/7/8/3/-/e/n/54e47c5d4cb41610489f978d/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "2:3",
+                    "url": "series/1/1/4/1/3/7/8/3/-/e/n/55d461894cb44490bb246cf4/{resolution}.jpg",
+                    "width": 960,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "16:9",
+                    "url": "series/1/1/4/1/3/7/8/3/-/e/n/55d461894cb44490bb246cf5/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "4:3",
+                    "url": "series/1/1/4/1/3/7/8/3/-/e/n/55d461894cb44490bb246cf2/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "3:4",
+                    "url": "series/1/1/4/1/3/7/8/3/-/e/n/55d461894cb44490bb246cf3/{resolution}.jpg",
+                    "width": 1080,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "4:3",
+                    "url": "series/1/1/4/1/3/7/8/3/-/e/n/54e47c5d4cb41610489f978b/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                }
+            ],
+            "seriesId": "11413783-en",
+            "pvrSeriesId": "12105485"
+        },
+        "new": false
+    },
+    {
+        "startTime": "2015-09-22T22:00:00Z",
+        "endTime": "2015-09-22T22:30:00Z",
+        "channelId": "CMDYH",
+        "rating": null,
+        "showType": "SERIES",
+        "program": {
+            "programId": "1452680",
+            "title": "Match Game",
+            "artworks": [
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "2:3",
+                    "url": "series/9/4/7/2/0/1/7/-/e/n/548af8544cb4e7a1af70716e/{resolution}.jpg",
+                    "width": 960,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "2:3",
+                    "url": "series/9/4/7/2/0/1/7/-/e/n/548af8544cb4e7a1af70716f/{resolution}.jpg",
+                    "width": 960,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "3:4",
+                    "url": "series/9/4/7/2/0/1/7/-/e/n/548af8544cb4e7a1af707170/{resolution}.jpg",
+                    "width": 1080,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_CAST_ENSEMBLE",
+                    "ratio": "16:9",
+                    "url": "series/9/4/7/2/0/1/7/-/e/n/548af8544cb4e7a1af707171/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "16:9",
+                    "url": "series/9/4/7/2/0/1/7/-/e/n/548af8544cb4e7a1af707172/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "16:9",
+                    "url": "series/9/4/7/2/0/1/7/-/e/n/548af8544cb4e7a1af707173/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "3:4",
+                    "url": "series/9/4/7/2/0/1/7/-/e/n/548af8544cb4e7a1af707177/{resolution}.jpg",
+                    "width": 1080,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_CAST_ENSEMBLE",
+                    "ratio": "4:3",
+                    "url": "series/9/4/7/2/0/1/7/-/e/n/548af8544cb4e7a1af707176/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_LOGO",
+                    "ratio": "4:3",
+                    "url": "series/9/4/7/2/0/1/7/-/e/n/548af8544cb4e7a1af70716d/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "4:3",
+                    "url": "series/9/4/7/2/0/1/7/-/e/n/548af8544cb4e7a1af707174/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "4:3",
+                    "url": "series/9/4/7/2/0/1/7/-/e/n/548af8544cb4e7a1af707175/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                }
+            ],
+            "seriesId": "9472017-en",
+            "pvrSeriesId": "440578"
+        },
+        "new": false
+    },
+    {
+        "startTime": "2015-09-22T22:30:00Z",
+        "endTime": "2015-09-22T23:00:00Z",
+        "channelId": "CW11H",
+        "rating": "BCTV-PG",
+        "showType": "SERIES",
+        "program": {
+            "programId": "10393926",
+            "title": "Celebrity Name Game",
+            "episodeId": "5183",
+            "seasonNumber": 2,
+            "episodeNumber": 2,
+            "artworks": [
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "16:9",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb6c/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "2:3",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb6f/{resolution}.jpg",
+                    "width": 960,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "2:3",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb71/{resolution}.jpg",
+                    "width": 960,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "3:4",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb72/{resolution}.jpg",
+                    "width": 1080,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "16:9",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb73/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "3:4",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb74/{resolution}.jpg",
+                    "width": 1080,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "4:3",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb70/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_LOGO",
+                    "ratio": "4:3",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb6e/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "4:3",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb6d/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                }
+            ],
+            "seriesId": "10911965-en",
+            "pvrSeriesId": "491692"
+        },
+        "new": true
+    },
+    {
+        "startTime": "2015-09-22T23:00:00Z",
+        "endTime": "2015-09-22T23:30:00Z",
+        "channelId": "CTYVH",
+        "rating": "BCTV-PG",
+        "showType": "SERIES",
+        "program": {
+            "programId": "10393926",
+            "title": "Celebrity Name Game",
+            "episodeId": "5183",
+            "seasonNumber": 2,
+            "episodeNumber": 2,
+            "artworks": [
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "16:9",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb6c/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "2:3",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb6f/{resolution}.jpg",
+                    "width": 960,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "2:3",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb71/{resolution}.jpg",
+                    "width": 960,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "3:4",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb72/{resolution}.jpg",
+                    "width": 1080,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "16:9",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb73/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "3:4",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb74/{resolution}.jpg",
+                    "width": 1080,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "4:3",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb70/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_LOGO",
+                    "ratio": "4:3",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb6e/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "4:3",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb6d/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                }
+            ],
+            "seriesId": "10911965-en",
+            "pvrSeriesId": "491692"
+        },
+        "new": true
+    },
+    {
+        "startTime": "2015-09-22T23:30:00Z",
+        "endTime": "2015-09-23T00:00:00Z",
+        "channelId": "CTYVH",
+        "rating": "BCTV-PG",
+        "showType": "SERIES",
+        "program": {
+            "programId": "10230498",
+            "title": "Celebrity Name Game",
+            "episodeId": "5091",
+            "seasonNumber": 1,
+            "episodeNumber": 84,
+            "artworks": [
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "16:9",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb6c/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "2:3",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb6f/{resolution}.jpg",
+                    "width": 960,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "2:3",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb71/{resolution}.jpg",
+                    "width": 960,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "3:4",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb72/{resolution}.jpg",
+                    "width": 1080,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "16:9",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb73/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "3:4",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb74/{resolution}.jpg",
+                    "width": 1080,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "4:3",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb70/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_LOGO",
+                    "ratio": "4:3",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb6e/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "4:3",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb6d/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                }
+            ],
+            "seriesId": "10911965-en",
+            "pvrSeriesId": "491692"
+        },
+        "new": false
+    },
+    {
+        "startTime": "2015-09-23T00:00:00Z",
+        "endTime": "2015-09-23T01:00:00Z",
+        "channelId": "SMITH",
+        "rating": "BCTV-PG",
+        "showType": "SERIES",
+        "program": {
+            "programId": "10396465",
+            "title": "Games on the Battlefield",
+            "artworks": [],
+            "seriesId": "12127780-en",
+            "pvrSeriesId": "12267487"
+        },
+        "new": true
+    },
+    {
+        "startTime": "2015-09-23T01:00:00Z",
+        "endTime": "2015-09-23T02:00:00Z",
+        "channelId": "C+I",
+        "rating": null,
+        "showType": "SERIES",
+        "program": {
+            "programId": "10304449",
+            "title": "Gangland Undercover",
+            "episodeId": "5004",
+            "seasonNumber": 1,
+            "episodeNumber": 4,
+            "episodeTitle": "Dangerous Game",
+            "artworks": [
+                {
+                    "type": "SERIES_CAST_ENSEMBLE",
+                    "ratio": "16:9",
+                    "url": "series/1/1/4/1/3/7/8/3/-/e/n/54e47c5d4cb41610489f978c/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "16:9",
+                    "url": "series/1/1/4/1/3/7/8/3/-/e/n/54e47c5d4cb41610489f978e/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "2:3",
+                    "url": "series/1/1/4/1/3/7/8/3/-/e/n/54e47c5d4cb41610489f9790/{resolution}.jpg",
+                    "width": 960,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_CAST_ENSEMBLE",
+                    "ratio": "4:3",
+                    "url": "series/1/1/4/1/3/7/8/3/-/e/n/54e47c5d4cb41610489f9792/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "3:4",
+                    "url": "series/1/1/4/1/3/7/8/3/-/e/n/54e47c5d4cb41610489f9789/{resolution}.jpg",
+                    "width": 1080,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_LOGO",
+                    "ratio": "4:3",
+                    "url": "series/1/1/4/1/3/7/8/3/-/e/n/54e47c5d4cb41610489f978d/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "2:3",
+                    "url": "series/1/1/4/1/3/7/8/3/-/e/n/55d461894cb44490bb246cf4/{resolution}.jpg",
+                    "width": 960,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "16:9",
+                    "url": "series/1/1/4/1/3/7/8/3/-/e/n/55d461894cb44490bb246cf5/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "4:3",
+                    "url": "series/1/1/4/1/3/7/8/3/-/e/n/55d461894cb44490bb246cf2/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "3:4",
+                    "url": "series/1/1/4/1/3/7/8/3/-/e/n/55d461894cb44490bb246cf3/{resolution}.jpg",
+                    "width": 1080,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "4:3",
+                    "url": "series/1/1/4/1/3/7/8/3/-/e/n/54e47c5d4cb41610489f978b/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                }
+            ],
+            "seriesId": "11413783-en",
+            "pvrSeriesId": "12105485"
+        },
+        "new": false
+    },
+    {
+        "startTime": "2015-09-23T01:00:00Z",
+        "endTime": "2015-09-23T01:30:00Z",
+        "channelId": "CMDWH",
+        "rating": null,
+        "showType": "SERIES",
+        "program": {
+            "programId": "1452680",
+            "title": "Match Game",
+            "artworks": [
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "2:3",
+                    "url": "series/9/4/7/2/0/1/7/-/e/n/548af8544cb4e7a1af70716e/{resolution}.jpg",
+                    "width": 960,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "2:3",
+                    "url": "series/9/4/7/2/0/1/7/-/e/n/548af8544cb4e7a1af70716f/{resolution}.jpg",
+                    "width": 960,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "3:4",
+                    "url": "series/9/4/7/2/0/1/7/-/e/n/548af8544cb4e7a1af707170/{resolution}.jpg",
+                    "width": 1080,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_CAST_ENSEMBLE",
+                    "ratio": "16:9",
+                    "url": "series/9/4/7/2/0/1/7/-/e/n/548af8544cb4e7a1af707171/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "16:9",
+                    "url": "series/9/4/7/2/0/1/7/-/e/n/548af8544cb4e7a1af707172/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "16:9",
+                    "url": "series/9/4/7/2/0/1/7/-/e/n/548af8544cb4e7a1af707173/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "3:4",
+                    "url": "series/9/4/7/2/0/1/7/-/e/n/548af8544cb4e7a1af707177/{resolution}.jpg",
+                    "width": 1080,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_CAST_ENSEMBLE",
+                    "ratio": "4:3",
+                    "url": "series/9/4/7/2/0/1/7/-/e/n/548af8544cb4e7a1af707176/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_LOGO",
+                    "ratio": "4:3",
+                    "url": "series/9/4/7/2/0/1/7/-/e/n/548af8544cb4e7a1af70716d/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "4:3",
+                    "url": "series/9/4/7/2/0/1/7/-/e/n/548af8544cb4e7a1af707174/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "4:3",
+                    "url": "series/9/4/7/2/0/1/7/-/e/n/548af8544cb4e7a1af707175/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                }
+            ],
+            "seriesId": "9472017-en",
+            "pvrSeriesId": "440578"
+        },
+        "new": false
+    },
+    {
+        "startTime": "2015-09-23T01:00:00Z",
+        "endTime": "2015-09-23T02:00:00Z",
+        "channelId": "S+HD",
+        "rating": "BCTV-PG-13",
+        "showType": "SERIES",
+        "program": {
+            "programId": "10394477",
+            "title": "Bones",
+            "episodeId": "5287",
+            "seasonNumber": 10,
+            "episodeNumber": 4,
+            "episodeTitle": "Game over",
+            "artworks": [
+                {
+                    "type": "EPISODE_ICONIC",
+                    "ratio": "3:4",
+                    "url": "series/1/8/5/1/2/9/-/f/r/seasons/1/0/9/0/9/5/0/9/-/f/r/episodes/E/P/0/0/9/6/0/2/7/6/0/2/8/7/55f253004cb409b16ce6a22b/{resolution}.jpg",
+                    "width": 1080,
+                    "height": 1440
+                },
+                {
+                    "type": "EPISODE_ICONIC",
+                    "ratio": "2:3",
+                    "url": "series/1/8/5/1/2/9/-/f/r/seasons/1/0/9/0/9/5/0/9/-/f/r/episodes/E/P/0/0/9/6/0/2/7/6/0/2/8/7/55f253004cb409b16ce6a22d/{resolution}.jpg",
+                    "width": 960,
+                    "height": 1440
+                },
+                {
+                    "type": "EPISODE_ICONIC",
+                    "ratio": "16:9",
+                    "url": "series/1/8/5/1/2/9/-/f/r/seasons/1/0/9/0/9/5/0/9/-/f/r/episodes/E/P/0/0/9/6/0/2/7/6/0/2/8/7/55f253004cb409b16ce6a22c/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "EPISODE_ICONIC",
+                    "ratio": "4:3",
+                    "url": "series/1/8/5/1/2/9/-/f/r/seasons/1/0/9/0/9/5/0/9/-/f/r/episodes/E/P/0/0/9/6/0/2/7/6/0/2/8/7/55f253004cb409b16ce6a22a/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "3:4",
+                    "url": "series/1/8/5/1/2/9/-/f/r/548af6ff4cb4e7a1af6fafbb/{resolution}.jpg",
+                    "width": 1080,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "2:3",
+                    "url": "series/1/8/5/1/2/9/-/f/r/548af6ff4cb4e7a1af6fafbd/{resolution}.jpg",
+                    "width": 960,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "16:9",
+                    "url": "series/1/8/5/1/2/9/-/f/r/548af6ff4cb4e7a1af6fafbe/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "2:3",
+                    "url": "series/1/8/5/1/2/9/-/f/r/548af6ff4cb4e7a1af6fafc0/{resolution}.jpg",
+                    "width": 960,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_CAST_ENSEMBLE",
+                    "ratio": "16:9",
+                    "url": "series/1/8/5/1/2/9/-/f/r/548af6ff4cb4e7a1af6fafc1/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "3:4",
+                    "url": "series/1/8/5/1/2/9/-/f/r/548af6ff4cb4e7a1af6fafc2/{resolution}.jpg",
+                    "width": 1080,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "16:9",
+                    "url": "series/1/8/5/1/2/9/-/f/r/548af6ff4cb4e7a1af6fafc3/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_CAST_ENSEMBLE",
+                    "ratio": "4:3",
+                    "url": "series/1/8/5/1/2/9/-/f/r/548af6ff4cb4e7a1af6fafba/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "4:3",
+                    "url": "series/1/8/5/1/2/9/-/f/r/548af6ff4cb4e7a1af6fafbc/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_LOGO",
+                    "ratio": "4:3",
+                    "url": "series/1/8/5/1/2/9/-/f/r/548af6ff4cb4e7a1af6fafb5/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "4:3",
+                    "url": "series/1/8/5/1/2/9/-/f/r/548af6ff4cb4e7a1af6fafb7/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                }
+            ],
+            "seriesId": "185129-fr",
+            "pvrSeriesId": "302655"
+        },
+        "new": false
+    },
+    {
+        "startTime": "2015-09-23T01:00:00Z",
+        "endTime": "2015-09-23T01:30:00Z",
+        "channelId": "FMLYH",
+        "rating": "BCTV-PG",
+        "showType": "SERIES",
+        "program": {
+            "programId": "1245541",
+            "title": "Good Luck Charlie",
+            "episodeId": "16",
+            "seasonNumber": 1,
+            "episodeNumber": 10,
+            "episodeTitle": "Take Mel Out to the Ball Game",
+            "artworks": [
+                {
+                    "type": "EPISODE_ICONIC",
+                    "ratio": "2:3",
+                    "url": "series/8/0/4/9/7/0/3/-/e/n/seasons/8/0/6/1/8/4/5/-/e/n/episodes/E/P/0/1/2/4/5/8/7/0/0/0/1/0/548ecfca4cb4e7a1af78330e/{resolution}.jpg",
+                    "width": 120,
+                    "height": 180
+                },
+                {
+                    "type": "EPISODE_ICONIC",
+                    "ratio": "16:9",
+                    "url": "series/8/0/4/9/7/0/3/-/e/n/seasons/8/0/6/1/8/4/5/-/e/n/episodes/E/P/0/1/2/4/5/8/7/0/0/0/1/0/548ecfca4cb4e7a1af78330f/{resolution}.jpg",
+                    "width": 240,
+                    "height": 135
+                },
+                {
+                    "type": "EPISODE_ICONIC",
+                    "ratio": "3:4",
+                    "url": "series/8/0/4/9/7/0/3/-/e/n/seasons/8/0/6/1/8/4/5/-/e/n/episodes/E/P/0/1/2/4/5/8/7/0/0/0/1/0/548ecfca4cb4e7a1af783311/{resolution}.jpg",
+                    "width": 135,
+                    "height": 180
+                },
+                {
+                    "type": "EPISODE_ICONIC",
+                    "ratio": "4:3",
+                    "url": "series/8/0/4/9/7/0/3/-/e/n/seasons/8/0/6/1/8/4/5/-/e/n/episodes/E/P/0/1/2/4/5/8/7/0/0/0/1/0/548ecfca4cb4e7a1af783310/{resolution}.jpg",
+                    "width": 180,
+                    "height": 135
+                },
+                {
+                    "type": "SERIES_CAST_ENSEMBLE",
+                    "ratio": "16:9",
+                    "url": "series/8/0/4/9/7/0/3/-/e/n/548af6d44cb4e7a1af6f9094/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "3:4",
+                    "url": "series/8/0/4/9/7/0/3/-/e/n/548af6d44cb4e7a1af6f9095/{resolution}.jpg",
+                    "width": 1080,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "2:3",
+                    "url": "series/8/0/4/9/7/0/3/-/e/n/548af6d44cb4e7a1af6f9096/{resolution}.jpg",
+                    "width": 960,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "3:4",
+                    "url": "series/8/0/4/9/7/0/3/-/e/n/548af6d44cb4e7a1af6f9099/{resolution}.jpg",
+                    "width": 1080,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "16:9",
+                    "url": "series/8/0/4/9/7/0/3/-/e/n/548af6d44cb4e7a1af6f909b/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "2:3",
+                    "url": "series/8/0/4/9/7/0/3/-/e/n/548af6d44cb4e7a1af6f909c/{resolution}.jpg",
+                    "width": 960,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "16:9",
+                    "url": "series/8/0/4/9/7/0/3/-/e/n/548af6d44cb4e7a1af6f909e/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_CAST_ENSEMBLE",
+                    "ratio": "4:3",
+                    "url": "series/8/0/4/9/7/0/3/-/e/n/548af6d44cb4e7a1af6f9098/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_LOGO",
+                    "ratio": "4:3",
+                    "url": "series/8/0/4/9/7/0/3/-/e/n/548af6d44cb4e7a1af6f9097/{resolution}.jpg",
+                    "width": 720,
+                    "height": 540
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "4:3",
+                    "url": "series/8/0/4/9/7/0/3/-/e/n/548af6d44cb4e7a1af6f909f/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "4:3",
+                    "url": "series/8/0/4/9/7/0/3/-/e/n/548af6d44cb4e7a1af6f9092/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                }
+            ],
+            "seriesId": "8049703-en",
+            "pvrSeriesId": "378933"
+        },
+        "new": false
+    },
+    {
+        "startTime": "2015-09-23T01:00:00Z",
+        "endTime": "2015-09-23T01:30:00Z",
+        "channelId": "FOXHW",
+        "rating": "BCTV-PG",
+        "showType": "SERIES",
+        "program": {
+            "programId": "10393926",
+            "title": "Celebrity Name Game",
+            "episodeId": "5183",
+            "seasonNumber": 2,
+            "episodeNumber": 2,
+            "artworks": [
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "16:9",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb6c/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "2:3",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb6f/{resolution}.jpg",
+                    "width": 960,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "2:3",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb71/{resolution}.jpg",
+                    "width": 960,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "3:4",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb72/{resolution}.jpg",
+                    "width": 1080,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "16:9",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb73/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "3:4",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb74/{resolution}.jpg",
+                    "width": 1080,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "4:3",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb70/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_LOGO",
+                    "ratio": "4:3",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb6e/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "4:3",
+                    "url": "series/1/0/9/1/1/9/6/5/-/e/n/548af7334cb4e7a1af6fcb6d/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                }
+            ],
+            "seriesId": "10911965-en",
+            "pvrSeriesId": "491692"
+        },
+        "new": true
+    },
+    {
+        "startTime": "2015-09-23T02:00:00Z",
+        "endTime": "2015-09-23T02:30:00Z",
+        "channelId": "DXDHD",
+        "rating": "BCTV-PG",
+        "showType": "SERIES",
+        "program": {
+            "programId": "1601594",
+            "title": "Slug Terra",
+            "episodeId": "33",
+            "seasonNumber": 3,
+            "episodeNumber": 7,
+            "episodeTitle": "The Thrill of the Game",
+            "artworks": [
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "16:9",
+                    "url": "series/9/4/0/3/4/8/4/-/e/n/548af6d54cb4e7a1af6f9196/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "2:3",
+                    "url": "series/9/4/0/3/4/8/4/-/e/n/548af6d54cb4e7a1af6f9197/{resolution}.jpg",
+                    "width": 960,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "3:4",
+                    "url": "series/9/4/0/3/4/8/4/-/e/n/548af6d54cb4e7a1af6f9198/{resolution}.jpg",
+                    "width": 1080,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "3:4",
+                    "url": "series/9/4/0/3/4/8/4/-/e/n/548af6d54cb4e7a1af6f919c/{resolution}.jpg",
+                    "width": 1080,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "2:3",
+                    "url": "series/9/4/0/3/4/8/4/-/e/n/548af6d54cb4e7a1af6f91a0/{resolution}.jpg",
+                    "width": 960,
+                    "height": 1440
+                },
+                {
+                    "type": "SERIES_CAST_ENSEMBLE",
+                    "ratio": "16:9",
+                    "url": "series/9/4/0/3/4/8/4/-/e/n/548af6d54cb4e7a1af6f91a1/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "16:9",
+                    "url": "series/9/4/0/3/4/8/4/-/e/n/557035414cb4968857ef5263/{resolution}.jpg",
+                    "width": 1920,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_CAST_ENSEMBLE",
+                    "ratio": "4:3",
+                    "url": "series/9/4/0/3/4/8/4/-/e/n/548af6d54cb4e7a1af6f91a3/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_BANNER",
+                    "ratio": "4:3",
+                    "url": "series/9/4/0/3/4/8/4/-/e/n/548af6d54cb4e7a1af6f919b/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_ICONIC",
+                    "ratio": "4:3",
+                    "url": "series/9/4/0/3/4/8/4/-/e/n/548af6d54cb4e7a1af6f919f/{resolution}.jpg",
+                    "width": 1440,
+                    "height": 1080
+                },
+                {
+                    "type": "SERIES_LOGO",
+                    "ratio": "4:3",
+                    "url": "series/9/4/0/3/4/8/4/-/e/n/548af6d54cb4e7a1af6f919a/{resolution}.jpg",
+                    "width": 720,
+                    "height": 540
+                }
+            ],
+            "seriesId": "9403484-en",
+            "pvrSeriesId": "437243"
+        },
+        "new": false
+    }
+]
