@@ -5,6 +5,36 @@
    },
    "panels":[
       {
+         "id":"55fc5bcb4cb4941f3e237eea",
+         "layout":"ZERO_PAGE_FLOW",
+         "qualifiers":{
+            "sizeHint":"notEmpty",
+            "maxLines":"1",
+            "size":"large"
+         },
+         "title":"New Movies (large)",
+         "contentType":"VOD_ASSETS",
+         "contentQuery":"http://boubalou.github.io/movies.json",
+         "artworks":[
+
+         ]
+      },
+      {
+         "id":"55fc5bcb4cb4941f3e237eec",
+         "layout":"ZERO_PAGE_FLOW",
+         "qualifiers":{
+            "sizeHint":"notEmpty",
+            "maxLines":"1",
+            "size":"medium"
+         },
+         "title":"New Movies (medium)",
+         "contentType":"VOD_ASSETS",
+         "contentQuery":"http://boubalou.github.io/movies.json",
+         "artworks":[
+
+         ]
+      },
+      {
          "id":"55fc5bcb4cb4941f3e237eeb",
          "layout":"ZERO_PAGE_FLOW",
          "qualifiers":{
@@ -58,7 +88,7 @@
          "qualifiers":{
             "sizeHint":"notEmpty",
             "maxLines":"1",
-            "size":"small"
+            "size":"medium"
          },
          "title":"Crave TV Series",
          "contentType":"VOD_SERIES",
