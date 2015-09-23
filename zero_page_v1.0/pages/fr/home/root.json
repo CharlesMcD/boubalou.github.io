@@ -1,0 +1,84 @@
+{
+   "title":"Accueil",
+   "qualifiers":{
+      "language":"fr"
+   },
+   "panels":[
+      {
+         "id":"55fc5bb54cb4941f3e237edb",
+         "layout":"ZERO_PAGE_FLOW",
+         "qualifiers":{
+            "sizeHint":"notEmpty",
+            "maxLines":"1",
+            "size":"medium"
+         },
+         "title":"Programmes populaires en direct",
+         "contentType":"EPG_SCHEDULES",
+         "contentQuery":"http://boubalou.github.io/epg_schedule_items.json",
+         "artworks":[
+
+         ]
+      },
+      {
+        "id":"54fe06684cb4eea4ca286298",
+        "layout":"ZERO_PAGE_FLOW",
+        "qualifiers":{
+           "style":"svod",
+           "filterBySubscribedProviders":"true",
+           "language":"en",
+           "size":"small"
+        },
+        "title":"Channels on demand",
+        "contentType":"PAGE_LINKS",
+        "contentQuery":"#ws.baseurl.cms.contentBundle.vod#/links/en/tv",
+        "artworks":[
+
+        ]
+      },
+      {
+         "id":"55fc5bb54cb4941f3e237edc",
+         "layout":"ZERO_PAGE_FLOW",
+         "qualifiers":{
+            "sizeHint":"notEmpty",
+            "maxLines":"1",
+            "size":"large",
+            "queryBySubscribedProviders":"true"
+         },
+         "title":"Ã‰missions sur demande",
+         "contentType":"VOD_ASSETS",
+         "contentQuery":"#ws.baseurl.vod.service.assets#/assets?categories[]=%5EPar%20abonnement&excludedCategories[]=%5ESubscription%2FMusic&showTypes[]=Series&promotedList=SVOD-episodes-fr&sortBy=dateAdded&skip={skip}&max={max}&platforms={platforms}&providers={subscriptionToken}",
+         "artworks":[
+
+         ]
+      },
+      {
+         "id":"55fc5bb54cb4941f3e237edd",
+         "layout":"ZERO_PAGE_FLOW",
+         "qualifiers":{
+            "sizeHint":"notEmpty",
+            "maxLines":"1"
+         },
+         "title":"SÃ©rie Crave TV",
+         "contentType":"VOD_SERIES",
+         "contentQuery":"#ws.baseurl.vod.service.series#/series?categories[]=%5ESubscription%2FMovies%20%26%20Series%2FCraveTV&skip={skip}&max={max}&platforms={platforms}",
+         "artworks":[
+
+         ]
+      },
+      {
+         "id":"55fc5bb54cb4941f3e237ede",
+         "layout":"ZERO_PAGE_FLOW",
+         "qualifiers":{
+            "sizeHint":"notEmpty",
+            "maxLines":"1",
+            "size":"medium"
+         },
+         "title":"Vu rÃ©cemment",
+         "contentType":"RECENTLY_WATCHED",
+         "contentQuery":null,
+         "artworks":[
+
+         ]
+      }
+   ]
+}
