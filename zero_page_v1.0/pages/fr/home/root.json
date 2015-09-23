@@ -26,6 +26,7 @@
            "style":"svod",
            "filterBySubscribedProviders":"true",
            "language":"en",
+           "maxLines":"2",
            "size":"small"
         },
         "title":"Channels on demand",
@@ -56,26 +57,12 @@
          "layout":"ZERO_PAGE_FLOW",
          "qualifiers":{
             "sizeHint":"notEmpty",
-            "maxLines":"1"
+            "maxLines":"1",
+            "size":"small"
          },
          "title":"SÃ©rie Crave TV",
          "contentType":"VOD_SERIES",
          "contentQuery":"#ws.baseurl.vod.service.series#/series?categories[]=%5ESubscription%2FMovies%20%26%20Series%2FCraveTV&skip={skip}&max={max}&platforms={platforms}",
-         "artworks":[
-
-         ]
-      },
-      {
-         "id":"55fc5bb54cb4941f3e237ede",
-         "layout":"ZERO_PAGE_FLOW",
-         "qualifiers":{
-            "sizeHint":"notEmpty",
-            "maxLines":"1",
-            "size":"medium"
-         },
-         "title":"Vu rÃ©cemment",
-         "contentType":"RECENTLY_WATCHED",
-         "contentQuery":null,
          "artworks":[
 
          ]
