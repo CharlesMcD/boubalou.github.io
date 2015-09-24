@@ -4,6 +4,21 @@
       "language":"en"
    },
    "panels":[
+         {
+         "id":"55fc5bcb4cb4941f3e237eef",
+         "layout":"ZERO_PAGE_FLOW",
+         "qualifiers":{
+            "sizeHint":"notEmpty",
+            "maxLines":"1",
+            "size":"large"
+         },
+         "title":"Trending Now (large)",
+         "contentType":"TRENDING_PROGRAMS",
+         "contentQuery":"http://boubalou.github.io/trending_programs.json",
+         "artworks":[
+
+         ]
+      },
       {
          "id":"55fc5bcb4cb4941f3e237eea",
          "layout":"ZERO_PAGE_FLOW",

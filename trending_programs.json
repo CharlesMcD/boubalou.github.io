@@ -1,0 +1,126 @@
+[
+  {
+    "viewership": 22848,
+    "program": {
+      "productionYear": null,
+      "episodeNumber": 10,
+      "seasonNumber": 1,
+      "closedCaption": false,
+      "programId": "10395789",
+      "title": "The Late Show With Stephen Colbert",
+      "description": "NBA MVP Steph Curry; GOP presidential hopeful Ted Cruz; Don Henley performs.",
+      "seriesId": "10703384-en",
+      "pvrSeriesId": "11906276",
+      "seasonId": "10767806-en",
+      "episodeId": "5010",
+      "showType": "SERIES",
+      "episodeTitle": null,
+      "categories": [
+        {
+          "category": "Series",
+          "subcategory": "Talk Show"
+        }
+      ],
+      "rating": "BCTV-PG",
+      "advisories": [],
+      "artworks": [
+        {
+          "type": "SERIES_BANNER",
+          "ratio": "3:4",
+          "url": "series/1/0/7/0/3/3/8/4/-/e/n/55e584dc4cb44490beb94cf0/{resolution}.jpg",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "type": "SERIES_BANNER",
+          "ratio": "16:9",
+          "url": "series/1/0/7/0/3/3/8/4/-/e/n/55e584dc4cb44490beb94cf1/{resolution}.jpg",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "type": "SERIES_ICONIC",
+          "ratio": "2:3",
+          "url": "series/1/0/7/0/3/3/8/4/-/e/n/55e584dc4cb44490beb94cf2/{resolution}.jpg",
+          "width": 960,
+          "height": 1440
+        },
+        {
+          "type": "SERIES_ICONIC",
+          "ratio": "16:9",
+          "url": "series/1/0/7/0/3/3/8/4/-/e/n/55e584dc4cb44490beb94cf3/{resolution}.jpg",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "type": "SERIES_ICONIC",
+          "ratio": "3:4",
+          "url": "series/1/0/7/0/3/3/8/4/-/e/n/55e584dc4cb44490beb94cf4/{resolution}.jpg",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "type": "SERIES_BANNER",
+          "ratio": "2:3",
+          "url": "series/1/0/7/0/3/3/8/4/-/e/n/55e584dc4cb44490beb94cf5/{resolution}.jpg",
+          "width": 960,
+          "height": 1440
+        },
+        {
+          "type": "SERIES_ICONIC",
+          "ratio": "4:3",
+          "url": "series/1/0/7/0/3/3/8/4/-/e/n/55e584dc4cb44490beb94cef/{resolution}.jpg",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "type": "SERIES_BANNER",
+          "ratio": "4:3",
+          "url": "series/1/0/7/0/3/3/8/4/-/e/n/55e584dc4cb44490beb94cf6/{resolution}.jpg",
+          "width": 1440,
+          "height": 1080
+        }
+      ],
+      "originalAirDate": "21-SEP-15"
+    },
+    "schedules": [
+      {
+        "channelId": "39493",
+        "callSign": "CBS-B",
+        "format": "SD",
+        "schedule": {
+          "startTime": "2015-09-22T03:35:00Z",
+          "endTime": "2015-09-22T04:37:00Z",
+          "duration": 3720,
+          "programId": "10395789",
+          "hd": false,
+          "title": "The Late Show With Stephen Colbert",
+          "episodeTitle": null,
+          "rating": "BCTV-PG",
+          "closedCaption": false,
+          "descriptiveVideo": false,
+          "seriesId": "10703384-en",
+          "pvrSeriesId": "11906276",
+          "showType": "SERIES",
+          "availabilities": {
+            "fibe": true,
+            "fibe-trickplay-startover": false,
+            "fibe-trickplay-lookback": false,
+            "fibe-trickplay-timeshift-rewind": false,
+            "fibe-trickplay-timeshift-fastforward": false,
+            "fibe-trickplay-timeshift-pause": false,
+            "nscreen-in-home-wifi": true,
+            "nscreen-out-of-home-wifi": false,
+            "nscreen-mobile": false,
+            "nscreen-trickplay-startover": false,
+            "nscreen-trickplay-lookback": false,
+            "nscreen-output-airplay": true,
+            "nscreen-output-chromecast": true,
+            "nscreen-output-mirroring": true
+          },
+          "new": true
+        }
+      }
+    ]
+  }
+]
