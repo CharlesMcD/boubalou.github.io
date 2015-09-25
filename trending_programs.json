@@ -1,6 +1,228 @@
 [
   {
-    "viewership": 22848,
+    "program": {
+        "productionYear":null,"episodeNumber":5,"seasonNumber":3,"closedCaption":false,"programId":"1605728","title":"BBQ Pitmasters","description":"In Salisbury, Maryland, Diva Q., 2 Worthless Nuts and Southern Krunk BBQ are competing to turn in both white and dark meat on chicken and a rack of pork at the same time.","seriesId":"7912728-en","pvrSeriesId":"368539","seasonId":"9262449-en","episodeId":"19","showType":"SERIES","episodeTitle":"Doctors, Divas and 2 Worthless Nuts","categories":[{"category":"Lifestyle","subcategory":"Cooking"}],"rating":"BCTV-PG","advisories":[],"artworks":[{"type":"SERIES_BANNER","ratio":"2:3","url":"series/7/9/1/2/7/2/8/-/e/n/548af6d74cb4e7a1af6f9330/{resolution}.jpg","width":960,"height":1440},{"type":"SERIES_BANNER","ratio":"3:4","url":"series/7/9/1/2/7/2/8/-/e/n/548af6d74cb4e7a1af6f9332/{resolution}.jpg","width":1080,"height":1440},{"type":"SERIES_BANNER","ratio":"16:9","url":"series/7/9/1/2/7/2/8/-/e/n/548af6d74cb4e7a1af6f9335/{resolution}.jpg","width":1920,"height":1080},{"type":"SERIES_ICONIC","ratio":"3:4","url":"series/7/9/1/2/7/2/8/-/e/n/54f844d84cb44cd6b01ba08c/{resolution}.jpg","width":1080,"height":1440},{"type":"SERIES_ICONIC","ratio":"16:9","url":"series/7/9/1/2/7/2/8/-/e/n/54f844d84cb44cd6b01ba08d/{resolution}.jpg","width":1920,"height":1080},{"type":"SERIES_ICONIC","ratio":"2:3","url":"series/7/9/1/2/7/2/8/-/e/n/54f844d84cb44cd6b01ba08e/{resolution}.jpg","width":960,"height":1440},{"type":"SERIES_ICONIC","ratio":"4:3","url":"series/7/9/1/2/7/2/8/-/e/n/54f844d84cb44cd6b01ba08f/{resolution}.jpg","width":1440,"height":1080},{"type":"SERIES_BANNER","ratio":"4:3","url":"series/7/9/1/2/7/2/8/-/e/n/548af6d74cb4e7a1af6f9336/{resolution}.jpg","width":1440,"height":1080}],"castAndCrew":[{"artworks":[],"id":"269239","characterName":null,"name":"Kevin Roberts","role":"Host"},{"artworks":[],"id":"581952","characterName":null,"name":"Myron Mixon","role":"Judge"},{"artworks":[{"type":"CELEBRITY_HEADSHOT","ratio":"3:4","url":"celebrities/1/8/9/9/9/3/54be17f14cb4cce087596a72/{resolution}.jpg","width":1080,"height":1440}],"id":"189993","characterName":null,"name":"Warren Sapp","role":"Judge"},{"artworks":[],"id":"672894","characterName":null,"name":"Art Smith","role":"Judge"}],"originalAirDate":"08-OCT-13"
+      },
+      "schedules": [
+        {
+          "channelId": "39493",
+          "callSign": "CAR-I",
+          "format": "SD",
+          "schedule": {
+            "programId":"1605728",
+            "startTime":"2015-09-25T20:00:00Z",
+            "endTime":"2015-09-25T21:00:00Z",
+            "duration":3600,
+            "hd":false,
+            "title":"BBQ Pitmasters",
+            "episodeTitle":"Doctors, Divas and 2 Worthless Nuts",
+            "rating":"BCTV-PG",
+            "closedCaption":true,
+            "descriptiveVideo":false,
+            "seriesId":"7912728-en",
+            "pvrSeriesId":"368539",
+            "showType":"SERIES",
+            "availabilities":{
+               "fibe":true,
+               "fibe-trickplay-startover":true,
+               "fibe-trickplay-lookback":false,
+               "fibe-trickplay-timeshift-rewind":true,
+               "fibe-trickplay-timeshift-fastforward":false,
+               "fibe-trickplay-timeshift-pause":true,
+               "nscreen-in-home-wifi":true,
+               "nscreen-out-of-home-wifi":false,
+               "nscreen-mobile":false,
+               "nscreen-trickplay-startover":false,
+               "nscreen-trickplay-lookback":false,
+               "nscreen-output-airplay":true,
+               "nscreen-output-chromecast":true,
+               "nscreen-output-mirroring":true
+            },
+            "new":false
+          }
+        }
+      ]
+    },
+  {
+    "program": {
+      "productionYear": null,
+      "episodeNumber": 9,
+      "seasonNumber": 3,
+      "closedCaption": false,
+      "programId": "1152350",
+      "title": "Murdoch Mysteries",
+      "description": "Murdoch questions his commitment to Dr. Ogden when mummified remains lead him to a very old murder-love story.",
+      "seriesId": "811777-en",
+      "pvrSeriesId": "319410",
+      "seasonId": "8524328-en",
+      "episodeId": "31",
+      "showType": "SERIES",
+      "episodeTitle": "Love and Human Remains",
+      "categories": [{
+        "category": "Series",
+        "subcategory": "Drama"
+      }],
+      "rating": null,
+      "advisories": [],
+      "artworks": [{
+        "type": "SERIES_ICONIC",
+        "ratio": "2:3",
+        "url": "series/8/1/1/7/7/7/-/e/n/548af7014cb4e7a1af6fb0d4/{resolution}.jpg",
+        "width": 960,
+        "height": 1440
+      }, {
+        "type": "SERIES_BANNER",
+        "ratio": "3:4",
+        "url": "series/8/1/1/7/7/7/-/e/n/548af7014cb4e7a1af6fb0d5/{resolution}.jpg",
+        "width": 1080,
+        "height": 1440
+      }, {
+        "type": "SERIES_ICONIC",
+        "ratio": "16:9",
+        "url": "series/8/1/1/7/7/7/-/e/n/548af7014cb4e7a1af6fb0d7/{resolution}.jpg",
+        "width": 1920,
+        "height": 1080
+      }, {
+        "type": "SERIES_BANNER",
+        "ratio": "2:3",
+        "url": "series/8/1/1/7/7/7/-/e/n/548af7014cb4e7a1af6fb0da/{resolution}.jpg",
+        "width": 960,
+        "height": 1440
+      }, {
+        "type": "SERIES_CAST_ENSEMBLE",
+        "ratio": "16:9",
+        "url": "series/8/1/1/7/7/7/-/e/n/548af7014cb4e7a1af6fb0db/{resolution}.jpg",
+        "width": 1920,
+        "height": 1080
+      }, {
+        "type": "SERIES_ICONIC",
+        "ratio": "3:4",
+        "url": "series/8/1/1/7/7/7/-/e/n/548af7014cb4e7a1af6fb0dc/{resolution}.jpg",
+        "width": 1080,
+        "height": 1440
+      }, {
+        "type": "SERIES_CAST_ENSEMBLE",
+        "ratio": "4:3",
+        "url": "series/8/1/1/7/7/7/-/e/n/548af7014cb4e7a1af6fb0d6/{resolution}.jpg",
+        "width": 1440,
+        "height": 1080
+      }, {
+        "type": "SERIES_BANNER",
+        "ratio": "16:9",
+        "url": "series/8/1/1/7/7/7/-/e/n/557307b84cb496885845d38b/{resolution}.jpg",
+        "width": 1920,
+        "height": 1080
+      }, {
+        "type": "SERIES_BANNER",
+        "ratio": "4:3",
+        "url": "series/8/1/1/7/7/7/-/e/n/548af7014cb4e7a1af6fb0dd/{resolution}.jpg",
+        "width": 1440,
+        "height": 1080
+      }, {
+        "type": "SERIES_LOGO",
+        "ratio": "4:3",
+        "url": "series/8/1/1/7/7/7/-/e/n/548af7014cb4e7a1af6fb0de/{resolution}.jpg",
+        "width": 1440,
+        "height": 1080
+      }, {
+        "type": "SERIES_ICONIC",
+        "ratio": "4:3",
+        "url": "series/8/1/1/7/7/7/-/e/n/548af7014cb4e7a1af6fb0d9/{resolution}.jpg",
+        "width": 1440,
+        "height": 1080
+      }, {
+        "type": "EPISODE_ICONIC",
+        "ratio": "16:9",
+        "url": "series/8/1/1/7/7/7/-/e/n/seasons/8/5/2/4/3/2/8/-/e/n/episodes/E/P/0/1/0/1/4/6/8/2/0/0/3/6/548af7f24cb4e7a1af703baa/{resolution}.jpg",
+        "width": 240,
+        "height": 135
+      }, {
+        "type": "EPISODE_ICONIC",
+        "ratio": "4:3",
+        "url": "series/8/1/1/7/7/7/-/e/n/seasons/8/5/2/4/3/2/8/-/e/n/episodes/E/P/0/1/0/1/4/6/8/2/0/0/3/6/548af7f24cb4e7a1af703bab/{resolution}.jpg",
+        "width": 180,
+        "height": 135
+      }],
+      "castAndCrew": [{
+        "artworks": [{
+          "type": "CELEBRITY_HEADSHOT",
+          "ratio": "3:4",
+          "url": "celebrities/8/5/3/3/2/54be18434cb4cce087598f04/{resolution}.jpg",
+          "width": 1080,
+          "height": 1440
+        }],
+        "id": "85332",
+        "characterName": null,
+        "name": "Yannick Bisson",
+        "role": "Actor"
+      }, {
+        "artworks": [{
+          "type": "CELEBRITY_HEADSHOT",
+          "ratio": "3:4",
+          "url": "celebrities/2/5/7/2/4/1/54be17fc4cb4cce087597064/{resolution}.jpg",
+          "width": 1080,
+          "height": 1440
+        }],
+        "id": "257241",
+        "characterName": null,
+        "name": "Helene Joy",
+        "role": "Actor"
+      }, {
+        "artworks": [],
+        "id": "568072",
+        "characterName": null,
+        "name": "Jonny Harris",
+        "role": "Actor"
+      }, {
+        "artworks": [],
+        "id": "354100",
+        "characterName": null,
+        "name": "Thomas Craig",
+        "role": "Actor"
+      }],
+      "originalAirDate": "16-MAY-10"
+    },
+    "schedules": [
+          {
+            "channelId": "39493",
+            "callSign": "CTYMH",
+            "format": "HD",
+            "schedule": {
+              "programId":"1152350",
+              "startTime":"2015-09-25T14:00:00Z",
+              "endTime":"2015-09-25T15:00:00Z",
+              "duration":3600,
+              "hd":true,
+              "title":"Murdoch Mysteries",
+              "episodeTitle":"Love and Human Remains",
+              "rating":null,
+              "closedCaption":true,
+              "descriptiveVideo":true,
+              "seriesId":"811777-en",
+              "pvrSeriesId":"319410",
+              "showType":"SERIES",
+              "availabilities":{
+                 "fibe":true,
+                 "fibe-trickplay-startover":false,
+                 "fibe-trickplay-lookback":false,
+                 "fibe-trickplay-timeshift-rewind":false,
+                 "fibe-trickplay-timeshift-fastforward":false,
+                 "fibe-trickplay-timeshift-pause":false,
+                 "nscreen-mobile":true,
+                 "nscreen-trickplay-startover":false,
+                 "nscreen-trickplay-lookback":false,
+                 "nscreen-output-airplay":true,
+                 "nscreen-output-chromecast":true,
+                 "nscreen-output-mirroring":true,
+                 "nscreen-in-home-wifi":true,
+                 "nscreen-out-of-home-wifi":true
+              },
+              "new":false
+            }
+          }
+        ]
+  },
+  {
     "program": {
       "productionYear": null,
       "episodeNumber": 10,
@@ -86,7 +308,7 @@
     "schedules": [
       {
         "channelId": "39493",
-        "callSign": "CBS-B",
+        "callSign": "CBS-V",
         "format": "SD",
         "schedule": {
           "startTime": "2015-09-22T03:35:00Z",
