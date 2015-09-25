@@ -1,6 +1,502 @@
 [
   {
     "program": {
+      "productionYear":2013,
+       "episodeNumber":null,
+       "seasonNumber":null,
+       "closedCaption":false,
+       "programId":"10008739",
+       "title":"La cité des ténèbres: La coupe mortelle",
+       "description":"Après avoir été témoin d'une étrange agression dans une boîte de nuit, Clary se réveille le matin suivant, consciente qu'elle n'a rien imaginé.",
+       "seriesId":null,
+       "pvrSeriesId":null,
+       "seasonId":null,
+       "episodeId":null,
+       "showType":"MOVIE",
+       "episodeTitle":null,
+       "categories":[
+          {
+             "category":"Movies",
+             "subcategory":"Action and Adventure"
+          }
+       ],
+       "rating":"BCTV-PG-13",
+       "advisories":[
+          "VIOLENCE",
+          "ADULT"
+       ],
+       "artworks":[
+          {
+             "type":"MOVIE_POSTER",
+             "ratio":"2:3",
+             "url":"programs/M/V/0/0/5/0/3/4/7/4/0/0/0/0/549415b74cb4bc8696c73450/{resolution}.jpg",
+             "width":960,
+             "height":1440
+          }
+       ],
+       "castAndCrew":[
+          {
+             "artworks":[
+                {
+                   "type":"CELEBRITY_HEADSHOT",
+                   "ratio":"3:4",
+                   "url":"celebrities/5/5/2/8/2/2/54be18234cb4cce08759802a/{resolution}.jpg",
+                   "width":1080,
+                   "height":1440
+                }
+             ],
+             "id":"552822",
+             "characterName":"Clary Fray",
+             "name":"Lily Collins",
+             "role":"Acteur"
+          },
+          {
+             "artworks":[
+                {
+                   "type":"CELEBRITY_HEADSHOT",
+                   "ratio":"3:4",
+                   "url":"celebrities/5/1/2/4/7/1/54be181d4cb4cce087597d4e/{resolution}.jpg",
+                   "width":1080,
+                   "height":1440
+                }
+             ],
+             "id":"512471",
+             "characterName":"Jace Wayland",
+             "name":"Jamie Campbell Bower",
+             "role":"Acteur"
+          },
+          {
+             "artworks":[
+                {
+                   "type":"CELEBRITY_HEADSHOT",
+                   "ratio":"3:4",
+                   "url":"celebrities/4/2/3/3/2/8/54be180f4cb4cce087597910/{resolution}.jpg",
+                   "width":1080,
+                   "height":1440
+                }
+             ],
+             "id":"423328",
+             "characterName":"Simon Lewis",
+             "name":"Robert Sheehan",
+             "role":"Acteur"
+          },
+          {
+             "artworks":[
+                {
+                   "type":"CELEBRITY_HEADSHOT",
+                   "ratio":"3:4",
+                   "url":"celebrities/7/1/6/0/6/54be18344cb4cce0875987a4/{resolution}.jpg",
+                   "width":1080,
+                   "height":1440
+                }
+             ],
+             "id":"71606",
+             "characterName":"Alec Lightwood",
+             "name":"Kevin Zegers",
+             "role":"Acteur"
+          },
+          {
+             "artworks":[
+                {
+                   "type":"CELEBRITY_HEADSHOT",
+                   "ratio":"3:4",
+                   "url":"celebrities/7/3/8/3/0/54be18374cb4cce08759895d/{resolution}.jpg",
+                   "width":1080,
+                   "height":1440
+                }
+             ],
+             "id":"73830",
+             "characterName":"Jocelyn Fray",
+             "name":"Lena Headey",
+             "role":"Acteur"
+          },
+          {
+             "artworks":[
+                {
+                   "type":"CELEBRITY_HEADSHOT",
+                   "ratio":"3:4",
+                   "url":"celebrities/2/4/0/1/4/5/54be17f94cb4cce087596f15/{resolution}.jpg",
+                   "width":1080,
+                   "height":1440
+                }
+             ],
+             "id":"240145",
+             "characterName":"Emil Pangborn",
+             "name":"Kevin Durand",
+             "role":"Acteur"
+          },
+          {
+             "artworks":[
+                {
+                   "type":"CELEBRITY_HEADSHOT",
+                   "ratio":"3:4",
+                   "url":"celebrities/5/6/6/9/8/9/54be18244cb4cce0875980ec/{resolution}.jpg",
+                   "width":1080,
+                   "height":1440
+                }
+             ],
+             "id":"566989",
+             "characterName":"Luke Garroway",
+             "name":"Aidan Turner",
+             "role":"Acteur"
+          },
+          {
+             "artworks":[
+                {
+                   "type":"CELEBRITY_HEADSHOT",
+                   "ratio":"3:4",
+                   "url":"celebrities/6/6/9/5/1/7/54be182e4cb4cce0875984b7/{resolution}.jpg",
+                   "width":1080,
+                   "height":1440
+                }
+             ],
+             "id":"669517",
+             "characterName":"Isabelle Lightwood",
+             "name":"Jemima West",
+             "role":"Acteur"
+          },
+          {
+             "artworks":[
+
+             ],
+             "id":"690310",
+             "characterName":"Magnus Bane",
+             "name":"Godfrey Gao",
+             "role":"Acteur"
+          },
+          {
+             "artworks":[
+                {
+                   "type":"CELEBRITY_HEADSHOT",
+                   "ratio":"3:4",
+                   "url":"celebrities/1/1/1/6/9/54be17e24cb4cce0875961b4/{resolution}.jpg",
+                   "width":1080,
+                   "height":1440
+                }
+             ],
+             "id":"11169",
+             "characterName":"Madame Dorothea",
+             "name":"CCH Pounder",
+             "role":"Acteur"
+          },
+          {
+             "artworks":[
+                {
+                   "type":"CELEBRITY_HEADSHOT",
+                   "ratio":"3:4",
+                   "url":"celebrities/2/9/8/3/6/54be18024cb4cce0875973ff/{resolution}.jpg",
+                   "width":1080,
+                   "height":1440
+                }
+             ],
+             "id":"29836",
+             "characterName":"Hodge Starkweather",
+             "name":"Jared Harris",
+             "role":"Acteur"
+          },
+          {
+             "artworks":[
+                {
+                   "type":"CELEBRITY_HEADSHOT",
+                   "ratio":"3:4",
+                   "url":"celebrities/7/3/9/6/3/54be18374cb4cce087598976/{resolution}.jpg",
+                   "width":1080,
+                   "height":1440
+                }
+             ],
+             "id":"73963",
+             "characterName":"Valentine Morgenstern",
+             "name":"Jonathan Rhys Meyers",
+             "role":"Acteur"
+          },
+          {
+             "artworks":[
+                {
+                   "type":"CELEBRITY_HEADSHOT",
+                   "ratio":"3:4",
+                   "url":"celebrities/1/7/0/3/6/7/54be17ee4cb4cce087596862/{resolution}.jpg",
+                   "width":1080,
+                   "height":1440
+                }
+             ],
+             "id":"170367",
+             "characterName":"Alaric/Werewolf",
+             "name":"Harry Van Gorkum",
+             "role":"Acteur"
+          },
+          {
+             "artworks":[
+                {
+                   "type":"CELEBRITY_HEADSHOT",
+                   "ratio":"3:4",
+                   "url":"celebrities/6/1/7/2/9/6/54be18294cb4cce087598308/{resolution}.jpg",
+                   "width":1080,
+                   "height":1440
+                }
+             ],
+             "id":"617296",
+             "characterName":"Samuel Blackwell",
+             "name":"Robert Maillet",
+             "role":"Acteur"
+          },
+          {
+             "artworks":[
+
+             ],
+             "id":"519718",
+             "characterName":"Brother Jeremiah",
+             "name":"Stephen R. Hart",
+             "role":"Acteur"
+          },
+          {
+             "artworks":[
+
+             ],
+             "id":"573295",
+             "characterName":"Eric",
+             "name":"Chris Ratz",
+             "role":"Acteur"
+          },
+          {
+             "artworks":[
+                {
+                   "type":"CELEBRITY_HEADSHOT",
+                   "ratio":"3:4",
+                   "url":"celebrities/5/2/6/8/7/7/54be18204cb4cce087597e86/{resolution}.jpg",
+                   "width":1080,
+                   "height":1440
+                }
+             ],
+             "id":"526877",
+             "characterName":"The Vampire Leader",
+             "name":"Elyas M'Barek",
+             "role":"Acteur"
+          },
+          {
+             "artworks":[
+
+             ],
+             "id":"581956",
+             "characterName":"Lambert",
+             "name":"Chad Connell",
+             "role":"Acteur"
+          },
+          {
+             "artworks":[
+                {
+                   "type":"CELEBRITY_HEADSHOT",
+                   "ratio":"3:4",
+                   "url":"celebrities/2/3/4/4/8/7/54be17f94cb4cce087596e95/{resolution}.jpg",
+                   "width":1080,
+                   "height":1440
+                }
+             ],
+             "id":"234487",
+             "characterName":null,
+             "name":"Harald Zwart",
+             "role":"Réalisateur"
+          },
+          {
+             "artworks":[
+
+             ],
+             "id":"690307",
+             "characterName":null,
+             "name":"Jessica Postigo Paquette",
+             "role":"Scénariste"
+          },
+          {
+             "artworks":[
+                {
+                   "type":"CELEBRITY_HEADSHOT",
+                   "ratio":"3:4",
+                   "url":"celebrities/3/8/7/3/2/0/54d4ce834cb4515dc5ccf00a/{resolution}.jpg",
+                   "width":1080,
+                   "height":1440
+                }
+             ],
+             "id":"387320",
+             "characterName":null,
+             "name":"Robert Kulzer",
+             "role":"Producteur"
+          },
+          {
+             "artworks":[
+
+             ],
+             "id":"308471",
+             "characterName":null,
+             "name":"Don Carmody",
+             "role":"Producteur"
+          },
+          {
+             "artworks":[
+                {
+                   "type":"CELEBRITY_HEADSHOT",
+                   "ratio":"3:4",
+                   "url":"celebrities/1/6/1/7/4/6/54be17ea4cb4cce08759666f/{resolution}.jpg",
+                   "width":1080,
+                   "height":1440
+                }
+             ],
+             "id":"161746",
+             "characterName":null,
+             "name":"Bob Shaye",
+             "role":"Producteur exécutif"
+          },
+          {
+             "artworks":[
+
+             ],
+             "id":"393635",
+             "characterName":null,
+             "name":"Michael Lynne",
+             "role":"Producteur exécutif"
+          },
+          {
+             "artworks":[
+
+             ],
+             "id":"403290",
+             "characterName":null,
+             "name":"Martin Moszkowicz",
+             "role":"Producteur exécutif"
+          },
+          {
+             "artworks":[
+
+             ],
+             "id":"548930",
+             "characterName":null,
+             "name":"Geir Hartly Andreassen",
+             "role":"Cinématographe"
+          },
+          {
+             "artworks":[
+
+             ],
+             "id":"471392",
+             "characterName":null,
+             "name":"François Séguin",
+             "role":"Design de production"
+          },
+          {
+             "artworks":[
+
+             ],
+             "id":"481315",
+             "characterName":null,
+             "name":"Jacqueline Carmody",
+             "role":"Monteur de films"
+          },
+          {
+             "artworks":[
+
+             ],
+             "id":"514925",
+             "characterName":null,
+             "name":"Atli Örvarsson",
+             "role":"Musique originale"
+          },
+          {
+             "artworks":[
+
+             ],
+             "id":"457530",
+             "characterName":null,
+             "name":"Gersha Phillips",
+             "role":"Créateur de costumes"
+          },
+          {
+             "artworks":[
+
+             ],
+             "id":"728910",
+             "characterName":null,
+             "name":"Stephanie Corsalini Ligorner",
+             "role":"Distribution"
+          },
+          {
+             "artworks":[
+
+             ],
+             "id":"459580",
+             "characterName":null,
+             "name":"Deirdre Bowen",
+             "role":"Distribution"
+          },
+          {
+             "artworks":[
+
+             ],
+             "id":"496330",
+             "characterName":null,
+             "name":"Anthony Ianni",
+             "role":"Directeur du service artistique"
+          },
+          {
+             "artworks":[
+
+             ],
+             "id":"458421",
+             "characterName":null,
+             "name":"Steve Shewchuk",
+             "role":"Accessoires de décoration"
+          },
+          {
+             "artworks":[
+
+             ],
+             "id":"728912",
+             "characterName":null,
+             "name":"Patricia Larman",
+             "role":"Accessoires de décoration"
+          }
+       ],
+       "originalAirDate":null
+    },
+    "schedules": [
+            {
+          "channelId": "39491",
+          "callSign": "SE2HD",
+          "format": "HD",
+          "schedule": {
+            "programId":"10008739",
+            "startTime":"2015-09-25T14:00:00Z",
+            "endTime":"2015-09-25T16:10:00Z",
+            "duration":7800,
+            "hd":true,
+            "title":"La cité des ténèbres: La coupe mortelle",
+            "episodeTitle":null,
+            "rating":"BCTV-PG-13",
+            "closedCaption":true,
+            "descriptiveVideo":false,
+            "seriesId":null,
+            "pvrSeriesId":null,
+            "showType":"MOVIE",
+            "availabilities":{
+               "fibe":true,
+               "fibe-trickplay-startover":true,
+               "fibe-trickplay-lookback":false,
+               "fibe-trickplay-timeshift-rewind":true,
+               "fibe-trickplay-timeshift-fastforward":true,
+               "fibe-trickplay-timeshift-pause":true,
+               "nscreen-in-home-wifi":true,
+               "nscreen-out-of-home-wifi":false,
+               "nscreen-mobile":false,
+               "nscreen-trickplay-startover":false,
+               "nscreen-trickplay-lookback":false,
+               "nscreen-output-airplay":true,
+               "nscreen-output-chromecast":true,
+               "nscreen-output-mirroring":true
+            },
+            "new":false
+          }
+        }
+    ]
+  },
+  {
+    "program": {
         "productionYear":null,"episodeNumber":5,"seasonNumber":3,"closedCaption":false,"programId":"1605728","title":"BBQ Pitmasters","description":"In Salisbury, Maryland, Diva Q., 2 Worthless Nuts and Southern Krunk BBQ are competing to turn in both white and dark meat on chicken and a rack of pork at the same time.","seriesId":"7912728-en","pvrSeriesId":"368539","seasonId":"9262449-en","episodeId":"19","showType":"SERIES","episodeTitle":"Doctors, Divas and 2 Worthless Nuts","categories":[{"category":"Lifestyle","subcategory":"Cooking"}],"rating":"BCTV-PG","advisories":[],"artworks":[{"type":"SERIES_BANNER","ratio":"2:3","url":"series/7/9/1/2/7/2/8/-/e/n/548af6d74cb4e7a1af6f9330/{resolution}.jpg","width":960,"height":1440},{"type":"SERIES_BANNER","ratio":"3:4","url":"series/7/9/1/2/7/2/8/-/e/n/548af6d74cb4e7a1af6f9332/{resolution}.jpg","width":1080,"height":1440},{"type":"SERIES_BANNER","ratio":"16:9","url":"series/7/9/1/2/7/2/8/-/e/n/548af6d74cb4e7a1af6f9335/{resolution}.jpg","width":1920,"height":1080},{"type":"SERIES_ICONIC","ratio":"3:4","url":"series/7/9/1/2/7/2/8/-/e/n/54f844d84cb44cd6b01ba08c/{resolution}.jpg","width":1080,"height":1440},{"type":"SERIES_ICONIC","ratio":"16:9","url":"series/7/9/1/2/7/2/8/-/e/n/54f844d84cb44cd6b01ba08d/{resolution}.jpg","width":1920,"height":1080},{"type":"SERIES_ICONIC","ratio":"2:3","url":"series/7/9/1/2/7/2/8/-/e/n/54f844d84cb44cd6b01ba08e/{resolution}.jpg","width":960,"height":1440},{"type":"SERIES_ICONIC","ratio":"4:3","url":"series/7/9/1/2/7/2/8/-/e/n/54f844d84cb44cd6b01ba08f/{resolution}.jpg","width":1440,"height":1080},{"type":"SERIES_BANNER","ratio":"4:3","url":"series/7/9/1/2/7/2/8/-/e/n/548af6d74cb4e7a1af6f9336/{resolution}.jpg","width":1440,"height":1080}],"castAndCrew":[{"artworks":[],"id":"269239","characterName":null,"name":"Kevin Roberts","role":"Host"},{"artworks":[],"id":"581952","characterName":null,"name":"Myron Mixon","role":"Judge"},{"artworks":[{"type":"CELEBRITY_HEADSHOT","ratio":"3:4","url":"celebrities/1/8/9/9/9/3/54be17f14cb4cce087596a72/{resolution}.jpg","width":1080,"height":1440}],"id":"189993","characterName":null,"name":"Warren Sapp","role":"Judge"},{"artworks":[],"id":"672894","characterName":null,"name":"Art Smith","role":"Judge"}],"originalAirDate":"08-OCT-13"
       },
       "schedules": [
