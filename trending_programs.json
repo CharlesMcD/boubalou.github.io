@@ -34,430 +34,10 @@
              "height":1440
           }
        ],
-       "castAndCrew":[
-          {
-             "artworks":[
-                {
-                   "type":"CELEBRITY_HEADSHOT",
-                   "ratio":"3:4",
-                   "url":"celebrities/5/5/2/8/2/2/54be18234cb4cce08759802a/{resolution}.jpg",
-                   "width":1080,
-                   "height":1440
-                }
-             ],
-             "id":"552822",
-             "characterName":"Clary Fray",
-             "name":"Lily Collins",
-             "role":"Acteur"
-          },
-          {
-             "artworks":[
-                {
-                   "type":"CELEBRITY_HEADSHOT",
-                   "ratio":"3:4",
-                   "url":"celebrities/5/1/2/4/7/1/54be181d4cb4cce087597d4e/{resolution}.jpg",
-                   "width":1080,
-                   "height":1440
-                }
-             ],
-             "id":"512471",
-             "characterName":"Jace Wayland",
-             "name":"Jamie Campbell Bower",
-             "role":"Acteur"
-          },
-          {
-             "artworks":[
-                {
-                   "type":"CELEBRITY_HEADSHOT",
-                   "ratio":"3:4",
-                   "url":"celebrities/4/2/3/3/2/8/54be180f4cb4cce087597910/{resolution}.jpg",
-                   "width":1080,
-                   "height":1440
-                }
-             ],
-             "id":"423328",
-             "characterName":"Simon Lewis",
-             "name":"Robert Sheehan",
-             "role":"Acteur"
-          },
-          {
-             "artworks":[
-                {
-                   "type":"CELEBRITY_HEADSHOT",
-                   "ratio":"3:4",
-                   "url":"celebrities/7/1/6/0/6/54be18344cb4cce0875987a4/{resolution}.jpg",
-                   "width":1080,
-                   "height":1440
-                }
-             ],
-             "id":"71606",
-             "characterName":"Alec Lightwood",
-             "name":"Kevin Zegers",
-             "role":"Acteur"
-          },
-          {
-             "artworks":[
-                {
-                   "type":"CELEBRITY_HEADSHOT",
-                   "ratio":"3:4",
-                   "url":"celebrities/7/3/8/3/0/54be18374cb4cce08759895d/{resolution}.jpg",
-                   "width":1080,
-                   "height":1440
-                }
-             ],
-             "id":"73830",
-             "characterName":"Jocelyn Fray",
-             "name":"Lena Headey",
-             "role":"Acteur"
-          },
-          {
-             "artworks":[
-                {
-                   "type":"CELEBRITY_HEADSHOT",
-                   "ratio":"3:4",
-                   "url":"celebrities/2/4/0/1/4/5/54be17f94cb4cce087596f15/{resolution}.jpg",
-                   "width":1080,
-                   "height":1440
-                }
-             ],
-             "id":"240145",
-             "characterName":"Emil Pangborn",
-             "name":"Kevin Durand",
-             "role":"Acteur"
-          },
-          {
-             "artworks":[
-                {
-                   "type":"CELEBRITY_HEADSHOT",
-                   "ratio":"3:4",
-                   "url":"celebrities/5/6/6/9/8/9/54be18244cb4cce0875980ec/{resolution}.jpg",
-                   "width":1080,
-                   "height":1440
-                }
-             ],
-             "id":"566989",
-             "characterName":"Luke Garroway",
-             "name":"Aidan Turner",
-             "role":"Acteur"
-          },
-          {
-             "artworks":[
-                {
-                   "type":"CELEBRITY_HEADSHOT",
-                   "ratio":"3:4",
-                   "url":"celebrities/6/6/9/5/1/7/54be182e4cb4cce0875984b7/{resolution}.jpg",
-                   "width":1080,
-                   "height":1440
-                }
-             ],
-             "id":"669517",
-             "characterName":"Isabelle Lightwood",
-             "name":"Jemima West",
-             "role":"Acteur"
-          },
-          {
-             "artworks":[
-
-             ],
-             "id":"690310",
-             "characterName":"Magnus Bane",
-             "name":"Godfrey Gao",
-             "role":"Acteur"
-          },
-          {
-             "artworks":[
-                {
-                   "type":"CELEBRITY_HEADSHOT",
-                   "ratio":"3:4",
-                   "url":"celebrities/1/1/1/6/9/54be17e24cb4cce0875961b4/{resolution}.jpg",
-                   "width":1080,
-                   "height":1440
-                }
-             ],
-             "id":"11169",
-             "characterName":"Madame Dorothea",
-             "name":"CCH Pounder",
-             "role":"Acteur"
-          },
-          {
-             "artworks":[
-                {
-                   "type":"CELEBRITY_HEADSHOT",
-                   "ratio":"3:4",
-                   "url":"celebrities/2/9/8/3/6/54be18024cb4cce0875973ff/{resolution}.jpg",
-                   "width":1080,
-                   "height":1440
-                }
-             ],
-             "id":"29836",
-             "characterName":"Hodge Starkweather",
-             "name":"Jared Harris",
-             "role":"Acteur"
-          },
-          {
-             "artworks":[
-                {
-                   "type":"CELEBRITY_HEADSHOT",
-                   "ratio":"3:4",
-                   "url":"celebrities/7/3/9/6/3/54be18374cb4cce087598976/{resolution}.jpg",
-                   "width":1080,
-                   "height":1440
-                }
-             ],
-             "id":"73963",
-             "characterName":"Valentine Morgenstern",
-             "name":"Jonathan Rhys Meyers",
-             "role":"Acteur"
-          },
-          {
-             "artworks":[
-                {
-                   "type":"CELEBRITY_HEADSHOT",
-                   "ratio":"3:4",
-                   "url":"celebrities/1/7/0/3/6/7/54be17ee4cb4cce087596862/{resolution}.jpg",
-                   "width":1080,
-                   "height":1440
-                }
-             ],
-             "id":"170367",
-             "characterName":"Alaric/Werewolf",
-             "name":"Harry Van Gorkum",
-             "role":"Acteur"
-          },
-          {
-             "artworks":[
-                {
-                   "type":"CELEBRITY_HEADSHOT",
-                   "ratio":"3:4",
-                   "url":"celebrities/6/1/7/2/9/6/54be18294cb4cce087598308/{resolution}.jpg",
-                   "width":1080,
-                   "height":1440
-                }
-             ],
-             "id":"617296",
-             "characterName":"Samuel Blackwell",
-             "name":"Robert Maillet",
-             "role":"Acteur"
-          },
-          {
-             "artworks":[
-
-             ],
-             "id":"519718",
-             "characterName":"Brother Jeremiah",
-             "name":"Stephen R. Hart",
-             "role":"Acteur"
-          },
-          {
-             "artworks":[
-
-             ],
-             "id":"573295",
-             "characterName":"Eric",
-             "name":"Chris Ratz",
-             "role":"Acteur"
-          },
-          {
-             "artworks":[
-                {
-                   "type":"CELEBRITY_HEADSHOT",
-                   "ratio":"3:4",
-                   "url":"celebrities/5/2/6/8/7/7/54be18204cb4cce087597e86/{resolution}.jpg",
-                   "width":1080,
-                   "height":1440
-                }
-             ],
-             "id":"526877",
-             "characterName":"The Vampire Leader",
-             "name":"Elyas M'Barek",
-             "role":"Acteur"
-          },
-          {
-             "artworks":[
-
-             ],
-             "id":"581956",
-             "characterName":"Lambert",
-             "name":"Chad Connell",
-             "role":"Acteur"
-          },
-          {
-             "artworks":[
-                {
-                   "type":"CELEBRITY_HEADSHOT",
-                   "ratio":"3:4",
-                   "url":"celebrities/2/3/4/4/8/7/54be17f94cb4cce087596e95/{resolution}.jpg",
-                   "width":1080,
-                   "height":1440
-                }
-             ],
-             "id":"234487",
-             "characterName":null,
-             "name":"Harald Zwart",
-             "role":"Réalisateur"
-          },
-          {
-             "artworks":[
-
-             ],
-             "id":"690307",
-             "characterName":null,
-             "name":"Jessica Postigo Paquette",
-             "role":"Scénariste"
-          },
-          {
-             "artworks":[
-                {
-                   "type":"CELEBRITY_HEADSHOT",
-                   "ratio":"3:4",
-                   "url":"celebrities/3/8/7/3/2/0/54d4ce834cb4515dc5ccf00a/{resolution}.jpg",
-                   "width":1080,
-                   "height":1440
-                }
-             ],
-             "id":"387320",
-             "characterName":null,
-             "name":"Robert Kulzer",
-             "role":"Producteur"
-          },
-          {
-             "artworks":[
-
-             ],
-             "id":"308471",
-             "characterName":null,
-             "name":"Don Carmody",
-             "role":"Producteur"
-          },
-          {
-             "artworks":[
-                {
-                   "type":"CELEBRITY_HEADSHOT",
-                   "ratio":"3:4",
-                   "url":"celebrities/1/6/1/7/4/6/54be17ea4cb4cce08759666f/{resolution}.jpg",
-                   "width":1080,
-                   "height":1440
-                }
-             ],
-             "id":"161746",
-             "characterName":null,
-             "name":"Bob Shaye",
-             "role":"Producteur exécutif"
-          },
-          {
-             "artworks":[
-
-             ],
-             "id":"393635",
-             "characterName":null,
-             "name":"Michael Lynne",
-             "role":"Producteur exécutif"
-          },
-          {
-             "artworks":[
-
-             ],
-             "id":"403290",
-             "characterName":null,
-             "name":"Martin Moszkowicz",
-             "role":"Producteur exécutif"
-          },
-          {
-             "artworks":[
-
-             ],
-             "id":"548930",
-             "characterName":null,
-             "name":"Geir Hartly Andreassen",
-             "role":"Cinématographe"
-          },
-          {
-             "artworks":[
-
-             ],
-             "id":"471392",
-             "characterName":null,
-             "name":"François Séguin",
-             "role":"Design de production"
-          },
-          {
-             "artworks":[
-
-             ],
-             "id":"481315",
-             "characterName":null,
-             "name":"Jacqueline Carmody",
-             "role":"Monteur de films"
-          },
-          {
-             "artworks":[
-
-             ],
-             "id":"514925",
-             "characterName":null,
-             "name":"Atli Örvarsson",
-             "role":"Musique originale"
-          },
-          {
-             "artworks":[
-
-             ],
-             "id":"457530",
-             "characterName":null,
-             "name":"Gersha Phillips",
-             "role":"Créateur de costumes"
-          },
-          {
-             "artworks":[
-
-             ],
-             "id":"728910",
-             "characterName":null,
-             "name":"Stephanie Corsalini Ligorner",
-             "role":"Distribution"
-          },
-          {
-             "artworks":[
-
-             ],
-             "id":"459580",
-             "characterName":null,
-             "name":"Deirdre Bowen",
-             "role":"Distribution"
-          },
-          {
-             "artworks":[
-
-             ],
-             "id":"496330",
-             "characterName":null,
-             "name":"Anthony Ianni",
-             "role":"Directeur du service artistique"
-          },
-          {
-             "artworks":[
-
-             ],
-             "id":"458421",
-             "characterName":null,
-             "name":"Steve Shewchuk",
-             "role":"Accessoires de décoration"
-          },
-          {
-             "artworks":[
-
-             ],
-             "id":"728912",
-             "characterName":null,
-             "name":"Patricia Larman",
-             "role":"Accessoires de décoration"
-          }
-       ],
        "originalAirDate":null
     },
     "schedules": [
-            {
-          "channelId": "39491",
+        {
           "callSign": "SE2HD",
           "format": "HD",
           "schedule": {
@@ -492,7 +72,79 @@
             },
             "new":false
           }
-        }
+        },
+        {
+          "callSign": "SE1HD",
+          "format": "HD",
+          "schedule": {
+            "programId":"10008739",
+            "startTime":"2015-09-25T14:00:00Z",
+            "endTime":"2015-09-25T16:10:00Z",
+            "duration":7800,
+            "hd":true,
+            "title":"La cité des ténèbres: La coupe mortelle",
+            "episodeTitle":null,
+            "rating":"BCTV-PG-13",
+            "closedCaption":true,
+            "descriptiveVideo":false,
+            "seriesId":null,
+            "pvrSeriesId":null,
+            "showType":"MOVIE",
+            "availabilities":{
+               "fibe":true,
+               "fibe-trickplay-startover":true,
+               "fibe-trickplay-lookback":false,
+               "fibe-trickplay-timeshift-rewind":true,
+               "fibe-trickplay-timeshift-fastforward":true,
+               "fibe-trickplay-timeshift-pause":true,
+               "nscreen-in-home-wifi":true,
+               "nscreen-out-of-home-wifi":false,
+               "nscreen-mobile":false,
+               "nscreen-trickplay-startover":false,
+               "nscreen-trickplay-lookback":false,
+               "nscreen-output-airplay":true,
+               "nscreen-output-chromecast":true,
+               "nscreen-output-mirroring":true
+            },
+            "new":false
+          }
+        },
+        {
+          "callSign": "SE2",
+          "format": "SD",
+          "schedule": {
+            "programId":"10008739",
+            "startTime":"2015-09-25T14:00:00Z",
+            "endTime":"2015-09-25T16:10:00Z",
+            "duration":7800,
+            "hd":false,
+            "title":"La cité des ténèbres: La coupe mortelle",
+            "episodeTitle":null,
+            "rating":"BCTV-PG-13",
+            "closedCaption":true,
+            "descriptiveVideo":false,
+            "seriesId":null,
+            "pvrSeriesId":null,
+            "showType":"MOVIE",
+            "availabilities":{
+               "fibe":true,
+               "fibe-trickplay-startover":true,
+               "fibe-trickplay-lookback":false,
+               "fibe-trickplay-timeshift-rewind":true,
+               "fibe-trickplay-timeshift-fastforward":true,
+               "fibe-trickplay-timeshift-pause":true,
+               "nscreen-in-home-wifi":true,
+               "nscreen-out-of-home-wifi":false,
+               "nscreen-mobile":false,
+               "nscreen-trickplay-startover":false,
+               "nscreen-trickplay-lookback":false,
+               "nscreen-output-airplay":true,
+               "nscreen-output-chromecast":true,
+               "nscreen-output-mirroring":true
+            },
+            "new":false
+          }
+        },
     ]
   },
   {
@@ -501,7 +153,6 @@
       },
       "schedules": [
         {
-          "channelId": "39493",
           "callSign": "CAR-I",
           "format": "SD",
           "schedule": {
@@ -639,48 +290,10 @@
         "width": 180,
         "height": 135
       }],
-      "castAndCrew": [{
-        "artworks": [{
-          "type": "CELEBRITY_HEADSHOT",
-          "ratio": "3:4",
-          "url": "celebrities/8/5/3/3/2/54be18434cb4cce087598f04/{resolution}.jpg",
-          "width": 1080,
-          "height": 1440
-        }],
-        "id": "85332",
-        "characterName": null,
-        "name": "Yannick Bisson",
-        "role": "Actor"
-      }, {
-        "artworks": [{
-          "type": "CELEBRITY_HEADSHOT",
-          "ratio": "3:4",
-          "url": "celebrities/2/5/7/2/4/1/54be17fc4cb4cce087597064/{resolution}.jpg",
-          "width": 1080,
-          "height": 1440
-        }],
-        "id": "257241",
-        "characterName": null,
-        "name": "Helene Joy",
-        "role": "Actor"
-      }, {
-        "artworks": [],
-        "id": "568072",
-        "characterName": null,
-        "name": "Jonny Harris",
-        "role": "Actor"
-      }, {
-        "artworks": [],
-        "id": "354100",
-        "characterName": null,
-        "name": "Thomas Craig",
-        "role": "Actor"
-      }],
       "originalAirDate": "16-MAY-10"
     },
     "schedules": [
           {
-            "channelId": "39493",
             "callSign": "CTYMH",
             "format": "HD",
             "schedule": {
@@ -803,15 +416,14 @@
     },
     "schedules": [
       {
-        "channelId": "39493",
-        "callSign": "CBS-V",
-        "format": "SD",
+        "callSign": "CBSHD",
+        "format": "HD",
         "schedule": {
           "startTime": "2015-09-22T03:35:00Z",
           "endTime": "2015-09-22T04:37:00Z",
           "duration": 3720,
           "programId": "10395789",
-          "hd": false,
+          "hd": true,
           "title": "The Late Show With Stephen Colbert",
           "episodeTitle": null,
           "rating": "BCTV-PG",
@@ -840,5 +452,118 @@
         }
       }
     ]
-  }
+  },
+  {
+    "program": {
+        "productionYear": null,
+        "episodeNumber": 6,
+        "seasonNumber": 7,
+        "closedCaption": false,
+        "programId": "10400380",
+        "title": "Let's Make a Deal",
+        "description": "Costumed contestants compete for cash and prizes.",
+        "seriesId": "7805542-en",
+        "pvrSeriesId": "364112",
+        "seasonId": "12141725-en",
+        "episodeId": "5691",
+        "showType": "SERIES",
+        "episodeTitle": null,
+        "categories": [{
+          "category": "Series",
+          "subcategory": "Game Show"
+        }],
+        "rating": "BCTV-PG",
+        "advisories": [],
+        "artworks": [{
+          "type": "SERIES_BANNER",
+          "ratio": "3:4",
+          "url": "series/7/8/0/5/5/4/2/-/e/n/548af7574cb4e7a1af6fd959/{resolution}.jpg",
+          "width": 1080,
+          "height": 1440
+        }, {
+          "type": "SERIES_ICONIC",
+          "ratio": "2:3",
+          "url": "series/7/8/0/5/5/4/2/-/e/n/548af7574cb4e7a1af6fd95c/{resolution}.jpg",
+          "width": 960,
+          "height": 1440
+        }, {
+          "type": "SERIES_BANNER",
+          "ratio": "2:3",
+          "url": "series/7/8/0/5/5/4/2/-/e/n/548af7574cb4e7a1af6fd95d/{resolution}.jpg",
+          "width": 960,
+          "height": 1440
+        }, {
+          "type": "SERIES_ICONIC",
+          "ratio": "3:4",
+          "url": "series/7/8/0/5/5/4/2/-/e/n/548af7574cb4e7a1af6fd95e/{resolution}.jpg",
+          "width": 1080,
+          "height": 1440
+        }, {
+          "type": "SERIES_BANNER",
+          "ratio": "4:3",
+          "url": "series/7/8/0/5/5/4/2/-/e/n/548af7574cb4e7a1af6fd95a/{resolution}.jpg",
+          "width": 1440,
+          "height": 1080
+        }, {
+          "type": "SERIES_ICONIC",
+          "ratio": "16:9",
+          "url": "series/7/8/0/5/5/4/2/-/e/n/55377f7c4cb4ab7d3d5978e7/{resolution}.jpg",
+          "width": 1920,
+          "height": 1080
+        }, {
+          "type": "SERIES_BANNER",
+          "ratio": "16:9",
+          "url": "series/7/8/0/5/5/4/2/-/e/n/55377f7c4cb4ab7d3d5978e8/{resolution}.jpg",
+          "width": 1920,
+          "height": 1080
+        }, {
+          "type": "SERIES_LOGO",
+          "ratio": "4:3",
+          "url": "series/7/8/0/5/5/4/2/-/e/n/548af7574cb4e7a1af6fd95b/{resolution}.jpg",
+          "width": 1440,
+          "height": 1080
+        }, {
+          "type": "SERIES_ICONIC",
+          "ratio": "4:3",
+          "url": "series/7/8/0/5/5/4/2/-/e/n/548af7574cb4e7a1af6fd95f/{resolution}.jpg",
+          "width": 1440,
+          "height": 1080
+        }],
+        "originalAirDate": "28-SEP-15"
+      },
+      "schedules": {
+        "callSign": "CBSHD",
+        "format": "SD",
+        "programId": "10400380",
+          "startTime": "2015-09-28T14:00:00Z",
+          "endTime": "2015-09-28T15:00:00Z",
+          "duration": 3600,
+          "hd": false,
+          "title": "Let's Make a Deal",
+          "episodeTitle": null,
+          "rating": "BCTV-PG",
+          "closedCaption": true,
+          "descriptiveVideo": false,
+          "seriesId": "7805542-en",
+          "pvrSeriesId": "364112",
+          "showType": "SERIES",
+          "availabilities": {
+            "fibe": true,
+            "fibe-trickplay-startover": false,
+            "fibe-trickplay-lookback": false,
+            "fibe-trickplay-timeshift-rewind": false,
+            "fibe-trickplay-timeshift-fastforward": false,
+            "fibe-trickplay-timeshift-pause": false,
+            "nscreen-in-home-wifi": true,
+            "nscreen-out-of-home-wifi": false,
+            "nscreen-mobile": false,
+            "nscreen-trickplay-startover": false,
+            "nscreen-trickplay-lookback": false,
+            "nscreen-output-airplay": true,
+            "nscreen-output-chromecast": true,
+            "nscreen-output-mirroring": true
+          },
+          "new": true
+        }
+    }
 ]
