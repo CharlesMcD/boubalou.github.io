@@ -531,39 +531,41 @@
         }],
         "originalAirDate": "28-SEP-15"
       },
-      "schedules": {
+      "schedules": [{
         "callSign": "CBSHD",
         "format": "SD",
-        "programId": "10400380",
-          "startTime": "2015-09-28T14:00:00Z",
-          "endTime": "2015-09-28T15:00:00Z",
-          "duration": 3600,
-          "hd": false,
-          "title": "Let's Make a Deal",
-          "episodeTitle": null,
-          "rating": "BCTV-PG",
-          "closedCaption": true,
-          "descriptiveVideo": false,
-          "seriesId": "7805542-en",
-          "pvrSeriesId": "364112",
-          "showType": "SERIES",
-          "availabilities": {
-            "fibe": true,
-            "fibe-trickplay-startover": false,
-            "fibe-trickplay-lookback": false,
-            "fibe-trickplay-timeshift-rewind": false,
-            "fibe-trickplay-timeshift-fastforward": false,
-            "fibe-trickplay-timeshift-pause": false,
-            "nscreen-in-home-wifi": true,
-            "nscreen-out-of-home-wifi": false,
-            "nscreen-mobile": false,
-            "nscreen-trickplay-startover": false,
-            "nscreen-trickplay-lookback": false,
-            "nscreen-output-airplay": true,
-            "nscreen-output-chromecast": true,
-            "nscreen-output-mirroring": true
-          },
-          "new": true
-        }
+        "schedule": {
+          "programId": "10400380",
+            "startTime": "2015-09-28T14:00:00Z",
+            "endTime": "2015-09-28T15:00:00Z",
+            "duration": 3600,
+            "hd": false,
+            "title": "Let's Make a Deal",
+            "episodeTitle": null,
+            "rating": "BCTV-PG",
+            "closedCaption": true,
+            "descriptiveVideo": false,
+            "seriesId": "7805542-en",
+            "pvrSeriesId": "364112",
+            "showType": "SERIES",
+            "availabilities": {
+              "fibe": true,
+              "fibe-trickplay-startover": false,
+              "fibe-trickplay-lookback": false,
+              "fibe-trickplay-timeshift-rewind": false,
+              "fibe-trickplay-timeshift-fastforward": false,
+              "fibe-trickplay-timeshift-pause": false,
+              "nscreen-in-home-wifi": true,
+              "nscreen-out-of-home-wifi": false,
+              "nscreen-mobile": false,
+              "nscreen-trickplay-startover": false,
+              "nscreen-trickplay-lookback": false,
+              "nscreen-output-airplay": true,
+              "nscreen-output-chromecast": true,
+              "nscreen-output-mirroring": true
+            },
+            "new": true
+          }
+        }]
     }
 ]
