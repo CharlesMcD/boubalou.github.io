@@ -10,7 +10,8 @@
          "qualifiers":{
             "sizeHint":"notEmpty",
             "maxLines":"1",
-            "size":"large"
+            "size":"large",
+            "navigation":"play_on_device"
          },
          "title":"Trending Now (large)",
          "contentType":"TRENDING_PROGRAMS",
@@ -25,7 +26,8 @@
          "qualifiers":{
             "sizeHint":"notEmpty",
             "maxLines":"1",
-            "size":"large"
+            "size":"large",
+            "navigation":"show_details"
          },
          "title":"New Movies (large)",
          "contentType":"VOD_ASSETS",
@@ -40,7 +42,8 @@
          "qualifiers":{
             "sizeHint":"notEmpty",
             "maxLines":"1",
-            "size":"medium"
+            "size":"medium",
+            "navigation":"play_on_device"
          },
          "title":"New Movies (medium)",
          "contentType":"VOD_ASSETS",
