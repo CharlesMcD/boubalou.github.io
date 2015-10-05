@@ -21,6 +21,22 @@
          ]
       },
       {
+         "id":"55fc5bcb4cb4941f3e237e4a",
+         "layout":"ZERO_PAGE_FLOW",
+         "qualifiers":{
+            "sizeHint":"notEmpty",
+            "maxLines":"1",
+            "size":"large",
+            "navigation":"play_on_device"
+         },
+         "title":"Free Movies On Demand",
+         "contentType":"VOD_ASSETS",
+         "contentQuery":"http://boubalou.github.io/free_movies.json",
+         "artworks":[
+
+         ]
+      },
+      {
          "id":"55fc5bcb4cb4941f3e237eea",
          "layout":"ZERO_PAGE_FLOW",
          "qualifiers":{
@@ -43,7 +59,7 @@
             "sizeHint":"notEmpty",
             "maxLines":"1",
             "size":"medium",
-            "navigation":"play_on_device"
+            "navigation":"show_details"
          },
          "title":"New Movies (medium)",
          "contentType":"VOD_ASSETS",
