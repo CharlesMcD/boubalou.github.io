@@ -1,0 +1,120 @@
+{
+   "title":"Home",
+   "qualifiers":{
+      "language":"en"
+   },
+   "panels":[
+      {
+         "id":"55fc5bcb4cb4941f3e237eea",
+         "layout":"ZERO_PAGE_FLOW",
+         "qualifiers":{
+            "sizeHint":"notEmpty",
+            "maxLines":"1",
+            "size":"large",
+            "navigation":"show_details"
+         },
+         "title":"New Movies (large)",
+         "contentType":"VOD_ASSETS",
+         "contentQuery":"http://boubalou.github.io/movies.json",
+         "artworks":[
+
+         ]
+      },
+      {
+         "id":"55fc5bcb4cb4941f3e237eea",
+         "layout":"ZERO_PAGE_FLOW",
+         "qualifiers":{
+            "sizeHint":"notEmpty",
+            "maxLines":"1",
+            "size":"large",
+            "navigation":"show_details"
+         },
+         "title":"New Movies (large)",
+         "contentType":"VOD_ASSETS",
+         "contentQuery":"http://boubalou.github.io/movies.json",
+         "artworks":[
+
+         ]
+      },
+      {
+         "id":"55fc5bcb4cb4941f3e237eea",
+         "layout":"ZERO_PAGE_FLOW",
+         "qualifiers":{
+            "sizeHint":"notEmpty",
+            "maxLines":"1",
+            "size":"large",
+            "navigation":"show_details"
+         },
+         "title":"New Movies (large)",
+         "contentType":"VOD_ASSETS",
+         "contentQuery":"http://boubalou.github.io/movies.json",
+         "artworks":[
+
+         ]
+      },
+      {
+         "id":"55fc5bcb4cb4941f3e237eea",
+         "layout":"ZERO_PAGE_FLOW",
+         "qualifiers":{
+            "sizeHint":"notEmpty",
+            "maxLines":"1",
+            "size":"large",
+            "navigation":"show_details"
+         },
+         "title":"New Movies (large)",
+         "contentType":"VOD_ASSETS",
+         "contentQuery":"http://boubalou.github.io/movies.json",
+         "artworks":[
+
+         ]
+      },
+      {
+         "id":"55fc5bcb4cb4941f3e237eea",
+         "layout":"ZERO_PAGE_FLOW",
+         "qualifiers":{
+            "sizeHint":"notEmpty",
+            "maxLines":"1",
+            "size":"large",
+            "navigation":"show_details"
+         },
+         "title":"New Movies (large)",
+         "contentType":"VOD_ASSETS",
+         "contentQuery":"http://boubalou.github.io/movies.json",
+         "artworks":[
+
+         ]
+      },
+      {
+         "id":"55fc5bcb4cb4941f3e237eea",
+         "layout":"ZERO_PAGE_FLOW",
+         "qualifiers":{
+            "sizeHint":"notEmpty",
+            "maxLines":"1",
+            "size":"large",
+            "navigation":"show_details"
+         },
+         "title":"New Movies (large)",
+         "contentType":"VOD_ASSETS",
+         "contentQuery":"http://boubalou.github.io/movies.json",
+         "artworks":[
+
+         ]
+      },
+      {
+         "id":"55fc5bcb4cb4941f3e237eea",
+         "layout":"ZERO_PAGE_FLOW",
+         "qualifiers":{
+            "sizeHint":"notEmpty",
+            "maxLines":"1",
+            "size":"large",
+            "navigation":"show_details"
+         },
+         "title":"New Movies (large)",
+         "contentType":"VOD_ASSETS",
+         "contentQuery":"http://boubalou.github.io/movies.json",
+         "artworks":[
+
+         ]
+      }
+   ]
+}
