@@ -120,7 +120,6 @@
     "id": "56167e49b5eac1769737a76d",
     "layout": "ZERO_PAGE_FLOW",
     "qualifiers": {
-      "sizeHint": "notEmpty",
       "maxLines": "1",
       "language": "fr",
       "size": "medium"
