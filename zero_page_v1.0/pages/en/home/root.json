@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
    "title":"Home",
    "qualifiers":{
       "language":"en"
@@ -133,3 +134,137 @@
       }
    ]
 }
+=======
+  "title": "Home",
+  "qualifiers": {
+    "root": "Home",
+    "language": "en"
+  },
+  "panels": [{
+    "id": "56167e49b5eac1769737a765",
+    "layout": "ZERO_PAGE_FLOW",
+    "qualifiers": {
+      "refreshRateMilli": "60000",
+      "sizeHint": "notEmpty",
+      "navigation": "play_on_device",
+      "maxLines": "1",
+      "language": "en",
+      "size": "large"
+    },
+    "title": "Trendings Live Shows",
+    "contentType": "TRENDING_PROGRAMS",
+    "contentQuery": "#ws.baseurl.reco.service#/trending/programs//{channelMap}/en",
+    "artworks": []
+  }, {
+    "id": "56167e49b5eac1769737a767",
+    "layout": "ZERO_PAGE_FLOW",
+    "qualifiers": {
+      "sizeHint": "notEmpty",
+      "navigation": "show_details",
+      "maxLines": "1",
+      "language": "en",
+      "queryBySubscribedProviders": "true",
+      "size": "large"
+    },
+    "title": "New On Demand Episodes",
+    "contentType": "VOD_ASSETS",
+    "contentQuery": "#ws.baseurl.vod.service.assets#/assets?categories[]=%5ESubscription&excludedCategories[]=%5ESubscription%2FMovies%20%26%20Series%2FCraveTV%2FShowtime&excludedCategories[]=%5ESubscription%2FMusic&promotedList=SVOD-episodes-en&showTypes[]=Series&sortBy=dateAdded&skip={skip}&max={max}&platforms={platforms}&providers={subscriptionToken}",
+    "artworks": []
+  }, {
+    "id": "56167e99b5eac1769737a7af",
+    "layout": "ZERO_PAGE_FLOW",
+    "qualifiers": {
+      "style": "svod",
+      "maxLines": "2",
+      "language": "en",
+      "size": "small"
+    },
+    "title": "Channels on demand",
+    "contentType": "PAGE_LINKS",
+    "contentQuery": "#ws.baseurl.cms.contentBundle.vod#/links/en/tv",
+    "artworks": []
+  }, {
+    "id": "56167e49b5eac1769737a768",
+    "layout": "ZERO_PAGE_FLOW",
+    "qualifiers": {
+      "navigation": "show_details",
+      "maxLines": "1",
+      "queryBySubscribedProviders": "true",
+      "size": "large"
+    },
+    "title": "Crave TV",
+    "contentType": "VOD_ASSETS",
+    "contentQuery": "#ws.baseurl.vod.service.assets#/assets?categories[]=%5ESubscription%2FMovies%20%26%20Series%2FCraveTV&excludedCategories[]=%5ESubscription%2FMovies%20%26%20Series%2FCraveTV%2FShowtime&promotedList=TOP&sortBy=dateAdded&skip={skip}&max={max}&platforms={platforms}&providers={subscriptionToken}",
+    "artworks": []
+  }, {
+    "id": "56167e49b5eac1769737a769",
+    "layout": "ZERO_PAGE_FLOW",
+    "qualifiers": {
+      "sizeHint": "notEmpty",
+      "maxLines": "1",
+      "language": "en",
+      "size": "medium"
+    },
+    "title": "Recently watched",
+    "contentType": "RECENTLY_WATCHED",
+    "contentQuery": null,
+    "artworks": []
+  }, {
+    "id": "56169335b5eac1769737b1bd",
+    "layout": "ZERO_PAGE_FLOW",
+    "qualifiers": {
+      "refreshRateMilli": "60000",
+      "sizeHint": "notEmpty",
+      "navigation": "play_on_device",
+      "maxLines": "1",
+      "language": "fr",
+      "size": "large"
+    },
+    "title": "Programmes populaires en direct",
+    "contentType": "TRENDING_PROGRAMS",
+    "contentQuery": "#ws.baseurl.reco.service#/trending/programs//{channelMap}/fr",
+    "artworks": []
+  }, {
+    "id": "56167e49b5eac1769737a76c",
+    "layout": "ZERO_PAGE_FLOW",
+    "qualifiers": {
+      "sizeHint": "notEmpty",
+      "navigation": "show_details",
+      "maxLines": "1",
+      "language": "fr",
+      "queryBySubscribedProviders": "true",
+      "size": "large"
+    },
+    "title": "Émissions sur demande",
+    "contentType": "VOD_ASSETS",
+    "contentQuery": "#ws.baseurl.vod.service.assets#/assets?categories[]=%5EPar%20abonnement&promotedList=SVOD-episodes-fr&showTypes[]=Series&sortBy=dateAdded&skip={skip}&max={max}&platforms={platforms}&providers={subscriptionToken}",
+    "artworks": []
+  }, {
+    "id": "5616939bb5eac1769737b205",
+    "layout": "ZERO_PAGE_FLOW",
+    "qualifiers": {
+      "style": "svod",
+      "maxLines": "2",
+      "language": "fr",
+      "size": "small"
+    },
+    "title": "Programmes populaires en direct",
+    "contentType": "PAGE_LINKS",
+    "contentQuery": "#ws.baseurl.cms.contentBundle.vod#/links/fr/tv",
+    "artworks": []
+  }, {
+    "id": "56167e49b5eac1769737a76d",
+    "layout": "ZERO_PAGE_FLOW",
+    "qualifiers": {
+      "sizeHint": "notEmpty",
+      "maxLines": "1",
+      "language": "fr",
+      "size": "medium"
+    },
+    "title": "Vu récemment",
+    "contentType": "RECENTLY_WATCHED",
+    "contentQuery": null,
+    "artworks": []
+  }]
+}
+>>>>>>> Update with real data
