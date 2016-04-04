@@ -1,0 +1,886 @@
+[{
+    "viewership": 4,
+    "program": {
+      "productionYear": null,
+      "episodeNumber": null,
+      "seasonNumber": null,
+      "closedCaption": false,
+      "programId": "10490397",
+      "title": "2016 World Women's Curling Championship - Canada vs. Japan",
+      "description": "From Swift Current, Sask.",
+      "seriesId": "361721-en",
+      "pvrSeriesId": "12372994",
+      "seasonId": null,
+      "episodeId": "18",
+      "showType": null,
+      "episodeTitle": "Canada vs. Japan",
+      "categories": [{
+        "category": "Sports",
+        "subcategory": "Other"
+      }],
+      "rating": null,
+      "advisories": [],
+      "artworks": [{
+        "ratio": "16:9",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c706/{resolution}.jpg",
+        "width": 1920,
+        "height": 1080
+      }, {
+        "ratio": "3:4",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c708/{resolution}.jpg",
+        "width": 1080,
+        "height": 1440
+      }, {
+        "ratio": "2:3",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c709/{resolution}.jpg",
+        "width": 960,
+        "height": 1440
+      }, {
+        "ratio": "4:3",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c707/{resolution}.jpg",
+        "width": 1440,
+        "height": 1080
+      }],
+      "castAndCrew": null,
+      "originalAirDate": "24-MAR-16"
+    },
+    "channels": [{
+      "callSign": "ICITo",
+      "format": null,
+      "schedule": {
+        "programId": "10490397",
+        "startTime": "2016-04-04T00:00:00Z",
+        "endTime": "2017-04-05T00:00:00Z",
+        "duration": 31536000,
+        "hd": true,
+        "title": "2016 World Women's Curling Championship - Canada vs. Japan",
+        "episodeTitle": "Canada vs. Japan",
+        "rating": null,
+        "closedCaption": true,
+        "descriptiveVideo": false,
+        "seriesId": "361721-en",
+        "pvrSeriesId": "12372994",
+        "ppvData": {
+          "eventId": null,
+          "price": null,
+          "purchaseWindowStartTime": null,
+          "purchaseWindowEndTime": null
+        },
+        "showType": null,
+        "availabilities": {
+          "tv": true,
+          "fibe": true,
+          "tv-trickplay-startover": false,
+          "tv-trickplay-lookback": false,
+          "tv-trickplay-timeshift-rewind": false,
+          "tv-trickplay-timeshift-fastforward": false,
+          "tv-trickplay-timeshift-pause": false,
+          "fibe-trickplay-timeshift-rewind": false,
+          "fibe-trickplay-timeshift-fastforward": false,
+          "fibe-trickplay-timeshift-pause": false,
+          "nscreen-in-home-wifi": true,
+          "nscreen-out-of-home-wifi": true,
+          "nscreen-mobile": true,
+          "nscreen-trickplay-startover": false,
+          "nscreen-trickplay-lookback": false,
+          "nscreen-output-airplay": true,
+          "nscreen-output-chromecast": true,
+          "nscreen-output-mirroring": true,
+          "fibe-trickplay-startover": false,
+          "fibe-trickplay-lookback": false
+        },
+        "new": true
+      }
+    }]
+  }, {
+    "viewership": 2,
+    "program": {
+      "productionYear": null,
+      "episodeNumber": null,
+      "seasonNumber": null,
+      "closedCaption": false,
+      "programId": "10490397",
+      "title": "2016 World Women's Curling Championship - Canada vs. Japan",
+      "description": "From Swift Current, Sask.",
+      "seriesId": "361721-en",
+      "pvrSeriesId": "12372994",
+      "seasonId": null,
+      "episodeId": "18",
+      "showType": null,
+      "episodeTitle": "Canada vs. Japan",
+      "categories": [{
+        "category": "Sports",
+        "subcategory": "Other"
+      }],
+      "rating": null,
+      "advisories": [],
+      "artworks": [{
+        "ratio": "16:9",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c706/{resolution}.jpg",
+        "width": 1920,
+        "height": 1080
+      }, {
+        "ratio": "3:4",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c708/{resolution}.jpg",
+        "width": 1080,
+        "height": 1440
+      }, {
+        "ratio": "2:3",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c709/{resolution}.jpg",
+        "width": 960,
+        "height": 1440
+      }, {
+        "ratio": "4:3",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c707/{resolution}.jpg",
+        "width": 1440,
+        "height": 1080
+      }],
+      "castAndCrew": null,
+      "originalAirDate": "24-MAR-16"
+    },
+    "channels": [{
+      "callSign": "V-MTL",
+      "format": null,
+      "schedule": {
+        "programId": "10490397",
+        "startTime": "2016-04-04T00:00:00Z",
+        "endTime": "2017-04-05T00:00:00Z",
+        "duration": 31536000,
+        "hd": true,
+        "title": "2016 World Women's Curling Championship - Canada vs. Japan",
+        "episodeTitle": "Canada vs. Japan",
+        "rating": null,
+        "closedCaption": true,
+        "descriptiveVideo": false,
+        "seriesId": "361721-en",
+        "pvrSeriesId": "12372994",
+        "ppvData": {
+          "eventId": null,
+          "price": null,
+          "purchaseWindowStartTime": null,
+          "purchaseWindowEndTime": null
+        },
+        "showType": null,
+        "availabilities": {
+          "tv": true,
+          "fibe": true,
+          "tv-trickplay-startover": false,
+          "tv-trickplay-lookback": false,
+          "tv-trickplay-timeshift-rewind": false,
+          "tv-trickplay-timeshift-fastforward": false,
+          "tv-trickplay-timeshift-pause": false,
+          "fibe-trickplay-timeshift-rewind": false,
+          "fibe-trickplay-timeshift-fastforward": false,
+          "fibe-trickplay-timeshift-pause": false,
+          "nscreen-in-home-wifi": true,
+          "nscreen-out-of-home-wifi": true,
+          "nscreen-mobile": true,
+          "nscreen-trickplay-startover": false,
+          "nscreen-trickplay-lookback": false,
+          "nscreen-output-airplay": true,
+          "nscreen-output-chromecast": true,
+          "nscreen-output-mirroring": true,
+          "fibe-trickplay-startover": false,
+          "fibe-trickplay-lookback": false
+        },
+        "new": true
+      }
+    }]
+  }, {
+    "viewership": 2,
+    "program": {
+      "productionYear": null,
+      "episodeNumber": null,
+      "seasonNumber": null,
+      "closedCaption": false,
+      "programId": "10490397",
+      "title": "2016 World Women's Curling Championship - Canada vs. Japan",
+      "description": "From Swift Current, Sask.",
+      "seriesId": "361721-en",
+      "pvrSeriesId": "12372994",
+      "seasonId": null,
+      "episodeId": "18",
+      "showType": null,
+      "episodeTitle": "Canada vs. Japan",
+      "categories": [{
+        "category": "Sports",
+        "subcategory": "Other"
+      }],
+      "rating": null,
+      "advisories": [],
+      "artworks": [{
+        "ratio": "16:9",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c706/{resolution}.jpg",
+        "width": 1920,
+        "height": 1080
+      }, {
+        "ratio": "3:4",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c708/{resolution}.jpg",
+        "width": 1080,
+        "height": 1440
+      }, {
+        "ratio": "2:3",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c709/{resolution}.jpg",
+        "width": 960,
+        "height": 1440
+      }, {
+        "ratio": "4:3",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c707/{resolution}.jpg",
+        "width": 1440,
+        "height": 1080
+      }],
+      "castAndCrew": null,
+      "originalAirDate": "24-MAR-16"
+    },
+    "channels": [{
+      "callSign": "TVAML",
+      "format": null,
+      "schedule": {
+        "programId": "10490397",
+        "startTime": "2016-04-04T00:00:00Z",
+        "endTime": "2017-04-05T00:00:00Z",
+        "duration": 31536000,
+        "hd": true,
+        "title": "2016 World Women's Curling Championship - Canada vs. Japan",
+        "episodeTitle": "Canada vs. Japan",
+        "rating": null,
+        "closedCaption": true,
+        "descriptiveVideo": false,
+        "seriesId": "361721-en",
+        "pvrSeriesId": "12372994",
+        "ppvData": {
+          "eventId": null,
+          "price": null,
+          "purchaseWindowStartTime": null,
+          "purchaseWindowEndTime": null
+        },
+        "showType": null,
+        "availabilities": {
+          "tv": true,
+          "fibe": true,
+          "tv-trickplay-startover": false,
+          "tv-trickplay-lookback": false,
+          "tv-trickplay-timeshift-rewind": false,
+          "tv-trickplay-timeshift-fastforward": false,
+          "tv-trickplay-timeshift-pause": false,
+          "fibe-trickplay-timeshift-rewind": false,
+          "fibe-trickplay-timeshift-fastforward": false,
+          "fibe-trickplay-timeshift-pause": false,
+          "nscreen-in-home-wifi": true,
+          "nscreen-out-of-home-wifi": true,
+          "nscreen-mobile": true,
+          "nscreen-trickplay-startover": false,
+          "nscreen-trickplay-lookback": false,
+          "nscreen-output-airplay": true,
+          "nscreen-output-chromecast": true,
+          "nscreen-output-mirroring": true,
+          "fibe-trickplay-startover": false,
+          "fibe-trickplay-lookback": false
+        },
+        "new": true
+      }
+    }]
+  }, {
+    "viewership": 2,
+    "program": {
+      "productionYear": null,
+      "episodeNumber": null,
+      "seasonNumber": null,
+      "closedCaption": false,
+      "programId": "10490397",
+      "title": "2016 World Women's Curling Championship - Canada vs. Japan",
+      "description": "From Swift Current, Sask.",
+      "seriesId": "361721-en",
+      "pvrSeriesId": "12372994",
+      "seasonId": null,
+      "episodeId": "18",
+      "showType": null,
+      "episodeTitle": "Canada vs. Japan",
+      "categories": [{
+        "category": "Sports",
+        "subcategory": "Other"
+      }],
+      "rating": null,
+      "advisories": [],
+      "artworks": [{
+        "ratio": "16:9",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c706/{resolution}.jpg",
+        "width": 1920,
+        "height": 1080
+      }, {
+        "ratio": "3:4",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c708/{resolution}.jpg",
+        "width": 1080,
+        "height": 1440
+      }, {
+        "ratio": "2:3",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c709/{resolution}.jpg",
+        "width": 960,
+        "height": 1440
+      }, {
+        "ratio": "4:3",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c707/{resolution}.jpg",
+        "width": 1440,
+        "height": 1080
+      }],
+      "castAndCrew": null,
+      "originalAirDate": "24-MAR-16"
+    },
+    "channels": [{
+      "callSign": "METEO",
+      "format": null,
+      "schedule": {
+        "programId": "10490397",
+        "startTime": "2016-04-04T00:00:00Z",
+        "endTime": "2017-04-05T00:00:00Z",
+        "duration": 31536000,
+        "hd": true,
+        "title": "2016 World Women's Curling Championship - Canada vs. Japan",
+        "episodeTitle": "Canada vs. Japan",
+        "rating": null,
+        "closedCaption": true,
+        "descriptiveVideo": false,
+        "seriesId": "361721-en",
+        "pvrSeriesId": "12372994",
+        "ppvData": {
+          "eventId": null,
+          "price": null,
+          "purchaseWindowStartTime": null,
+          "purchaseWindowEndTime": null
+        },
+        "showType": null,
+        "availabilities": {
+          "tv": true,
+          "fibe": true,
+          "tv-trickplay-startover": false,
+          "tv-trickplay-lookback": false,
+          "tv-trickplay-timeshift-rewind": false,
+          "tv-trickplay-timeshift-fastforward": false,
+          "tv-trickplay-timeshift-pause": false,
+          "fibe-trickplay-timeshift-rewind": false,
+          "fibe-trickplay-timeshift-fastforward": false,
+          "fibe-trickplay-timeshift-pause": false,
+          "nscreen-in-home-wifi": true,
+          "nscreen-out-of-home-wifi": true,
+          "nscreen-mobile": true,
+          "nscreen-trickplay-startover": false,
+          "nscreen-trickplay-lookback": false,
+          "nscreen-output-airplay": true,
+          "nscreen-output-chromecast": true,
+          "nscreen-output-mirroring": true,
+          "fibe-trickplay-startover": false,
+          "fibe-trickplay-lookback": false
+        },
+        "new": true
+      }
+    }]
+  }, {
+    "viewership": 2,
+    "program": {
+      "productionYear": null,
+      "episodeNumber": null,
+      "seasonNumber": null,
+      "closedCaption": false,
+      "programId": "10490397",
+      "title": "2016 World Women's Curling Championship - Canada vs. Japan",
+      "description": "From Swift Current, Sask.",
+      "seriesId": "361721-en",
+      "pvrSeriesId": "12372994",
+      "seasonId": null,
+      "episodeId": "18",
+      "showType": null,
+      "episodeTitle": "Canada vs. Japan",
+      "categories": [{
+        "category": "Sports",
+        "subcategory": "Other"
+      }],
+      "rating": null,
+      "advisories": [],
+      "artworks": [{
+        "ratio": "16:9",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c706/{resolution}.jpg",
+        "width": 1920,
+        "height": 1080
+      }, {
+        "ratio": "3:4",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c708/{resolution}.jpg",
+        "width": 1080,
+        "height": 1440
+      }, {
+        "ratio": "2:3",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c709/{resolution}.jpg",
+        "width": 960,
+        "height": 1440
+      }, {
+        "ratio": "4:3",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c707/{resolution}.jpg",
+        "width": 1440,
+        "height": 1080
+      }],
+      "castAndCrew": null,
+      "originalAirDate": "24-MAR-16"
+    },
+    "channels": [{
+      "callSign": "RDS",
+      "format": null,
+      "schedule": {
+        "programId": "10490397",
+        "startTime": "2016-04-04T00:00:00Z",
+        "endTime": "2017-04-05T00:00:00Z",
+        "duration": 31536000,
+        "hd": true,
+        "title": "2016 World Women's Curling Championship - Canada vs. Japan",
+        "episodeTitle": "Canada vs. Japan",
+        "rating": null,
+        "closedCaption": true,
+        "descriptiveVideo": false,
+        "seriesId": "361721-en",
+        "pvrSeriesId": "12372994",
+        "ppvData": {
+          "eventId": null,
+          "price": null,
+          "purchaseWindowStartTime": null,
+          "purchaseWindowEndTime": null
+        },
+        "showType": null,
+        "availabilities": {
+          "tv": true,
+          "fibe": true,
+          "tv-trickplay-startover": false,
+          "tv-trickplay-lookback": false,
+          "tv-trickplay-timeshift-rewind": false,
+          "tv-trickplay-timeshift-fastforward": false,
+          "tv-trickplay-timeshift-pause": false,
+          "fibe-trickplay-timeshift-rewind": false,
+          "fibe-trickplay-timeshift-fastforward": false,
+          "fibe-trickplay-timeshift-pause": false,
+          "nscreen-in-home-wifi": true,
+          "nscreen-out-of-home-wifi": true,
+          "nscreen-mobile": true,
+          "nscreen-trickplay-startover": false,
+          "nscreen-trickplay-lookback": false,
+          "nscreen-output-airplay": true,
+          "nscreen-output-chromecast": true,
+          "nscreen-output-mirroring": true,
+          "fibe-trickplay-startover": false,
+          "fibe-trickplay-lookback": false
+        },
+        "new": true
+      }
+    }]
+  }, {
+    "viewership": 2,
+    "program": {
+      "productionYear": null,
+      "episodeNumber": null,
+      "seasonNumber": null,
+      "closedCaption": false,
+      "programId": "10490397",
+      "title": "2016 World Women's Curling Championship - Canada vs. Japan",
+      "description": "From Swift Current, Sask.",
+      "seriesId": "361721-en",
+      "pvrSeriesId": "12372994",
+      "seasonId": null,
+      "episodeId": "18",
+      "showType": null,
+      "episodeTitle": "Canada vs. Japan",
+      "categories": [{
+        "category": "Sports",
+        "subcategory": "Other"
+      }],
+      "rating": null,
+      "advisories": [],
+      "artworks": [{
+        "ratio": "16:9",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c706/{resolution}.jpg",
+        "width": 1920,
+        "height": 1080
+      }, {
+        "ratio": "3:4",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c708/{resolution}.jpg",
+        "width": 1080,
+        "height": 1440
+      }, {
+        "ratio": "2:3",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c709/{resolution}.jpg",
+        "width": 960,
+        "height": 1440
+      }, {
+        "ratio": "4:3",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c707/{resolution}.jpg",
+        "width": 1440,
+        "height": 1080
+      }],
+      "castAndCrew": null,
+      "originalAirDate": "24-MAR-16"
+    },
+    "channels": [{
+      "callSign": "LCN",
+      "format": null,
+      "schedule": {
+        "programId": "10490397",
+        "startTime": "2016-04-04T00:00:00Z",
+        "endTime": "2017-04-05T00:00:00Z",
+        "duration": 31536000,
+        "hd": true,
+        "title": "2016 World Women's Curling Championship - Canada vs. Japan",
+        "episodeTitle": "Canada vs. Japan",
+        "rating": null,
+        "closedCaption": true,
+        "descriptiveVideo": false,
+        "seriesId": "361721-en",
+        "pvrSeriesId": "12372994",
+        "ppvData": {
+          "eventId": null,
+          "price": null,
+          "purchaseWindowStartTime": null,
+          "purchaseWindowEndTime": null
+        },
+        "showType": null,
+        "availabilities": {
+          "tv": true,
+          "fibe": true,
+          "tv-trickplay-startover": false,
+          "tv-trickplay-lookback": false,
+          "tv-trickplay-timeshift-rewind": false,
+          "tv-trickplay-timeshift-fastforward": false,
+          "tv-trickplay-timeshift-pause": false,
+          "fibe-trickplay-timeshift-rewind": false,
+          "fibe-trickplay-timeshift-fastforward": false,
+          "fibe-trickplay-timeshift-pause": false,
+          "nscreen-in-home-wifi": true,
+          "nscreen-out-of-home-wifi": true,
+          "nscreen-mobile": true,
+          "nscreen-trickplay-startover": false,
+          "nscreen-trickplay-lookback": false,
+          "nscreen-output-airplay": true,
+          "nscreen-output-chromecast": true,
+          "nscreen-output-mirroring": true,
+          "fibe-trickplay-startover": false,
+          "fibe-trickplay-lookback": false
+        },
+        "new": true
+      }
+    }]
+  }, {
+    "viewership": 2,
+    "program": {
+      "productionYear": null,
+      "episodeNumber": null,
+      "seasonNumber": null,
+      "closedCaption": false,
+      "programId": "10490397",
+      "title": "2016 World Women's Curling Championship - Canada vs. Japan",
+      "description": "From Swift Current, Sask.",
+      "seriesId": "361721-en",
+      "pvrSeriesId": "12372994",
+      "seasonId": null,
+      "episodeId": "18",
+      "showType": null,
+      "episodeTitle": "Canada vs. Japan",
+      "categories": [{
+        "category": "Sports",
+        "subcategory": "Other"
+      }],
+      "rating": null,
+      "advisories": [],
+      "artworks": [{
+        "ratio": "16:9",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c706/{resolution}.jpg",
+        "width": 1920,
+        "height": 1080
+      }, {
+        "ratio": "3:4",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c708/{resolution}.jpg",
+        "width": 1080,
+        "height": 1440
+      }, {
+        "ratio": "2:3",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c709/{resolution}.jpg",
+        "width": 960,
+        "height": 1440
+      }, {
+        "ratio": "4:3",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c707/{resolution}.jpg",
+        "width": 1440,
+        "height": 1080
+      }],
+      "castAndCrew": null,
+      "originalAirDate": "24-MAR-16"
+    },
+    "channels": [{
+      "callSign": "CTVTo",
+      "format": null,
+      "schedule": {
+        "programId": "10490397",
+        "startTime": "2016-04-04T00:00:00Z",
+        "endTime": "2017-04-05T00:00:00Z",
+        "duration": 31536000,
+        "hd": true,
+        "title": "2016 World Women's Curling Championship - Canada vs. Japan",
+        "episodeTitle": "Canada vs. Japan",
+        "rating": null,
+        "closedCaption": true,
+        "descriptiveVideo": false,
+        "seriesId": "361721-en",
+        "pvrSeriesId": "12372994",
+        "ppvData": {
+          "eventId": null,
+          "price": null,
+          "purchaseWindowStartTime": null,
+          "purchaseWindowEndTime": null
+        },
+        "showType": null,
+        "availabilities": {
+          "tv": true,
+          "fibe": true,
+          "tv-trickplay-startover": false,
+          "tv-trickplay-lookback": false,
+          "tv-trickplay-timeshift-rewind": false,
+          "tv-trickplay-timeshift-fastforward": false,
+          "tv-trickplay-timeshift-pause": false,
+          "fibe-trickplay-timeshift-rewind": false,
+          "fibe-trickplay-timeshift-fastforward": false,
+          "fibe-trickplay-timeshift-pause": false,
+          "nscreen-in-home-wifi": true,
+          "nscreen-out-of-home-wifi": true,
+          "nscreen-mobile": true,
+          "nscreen-trickplay-startover": false,
+          "nscreen-trickplay-lookback": false,
+          "nscreen-output-airplay": true,
+          "nscreen-output-chromecast": true,
+          "nscreen-output-mirroring": true,
+          "fibe-trickplay-startover": false,
+          "fibe-trickplay-lookback": false
+        },
+        "new": true
+      }
+    }]
+  }, {
+    "viewership": 2,
+    "program": {
+      "productionYear": null,
+      "episodeNumber": null,
+      "seasonNumber": null,
+      "closedCaption": false,
+      "programId": "10490397",
+      "title": "2016 World Women's Curling Championship - Canada vs. Japan",
+      "description": "From Swift Current, Sask.",
+      "seriesId": "361721-en",
+      "pvrSeriesId": "12372994",
+      "seasonId": null,
+      "episodeId": "18",
+      "showType": null,
+      "episodeTitle": "Canada vs. Japan",
+      "categories": [{
+        "category": "Sports",
+        "subcategory": "Other"
+      }],
+      "rating": null,
+      "advisories": [],
+      "artworks": [{
+        "ratio": "16:9",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c706/{resolution}.jpg",
+        "width": 1920,
+        "height": 1080
+      }, {
+        "ratio": "3:4",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c708/{resolution}.jpg",
+        "width": 1080,
+        "height": 1440
+      }, {
+        "ratio": "2:3",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c709/{resolution}.jpg",
+        "width": 960,
+        "height": 1440
+      }, {
+        "ratio": "4:3",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c707/{resolution}.jpg",
+        "width": 1440,
+        "height": 1080
+      }],
+      "castAndCrew": null,
+      "originalAirDate": "24-MAR-16"
+    },
+    "channels": [{
+      "callSign": "CBCTo",
+      "format": null,
+      "schedule": {
+        "programId": "10490397",
+        "startTime": "2016-04-04T00:00:00Z",
+        "endTime": "2017-04-05T00:00:00Z",
+        "duration": 31536000,
+        "hd": true,
+        "title": "2016 World Women's Curling Championship - Canada vs. Japan",
+        "episodeTitle": "Canada vs. Japan",
+        "rating": null,
+        "closedCaption": true,
+        "descriptiveVideo": false,
+        "seriesId": "361721-en",
+        "pvrSeriesId": "12372994",
+        "ppvData": {
+          "eventId": null,
+          "price": null,
+          "purchaseWindowStartTime": null,
+          "purchaseWindowEndTime": null
+        },
+        "showType": null,
+        "availabilities": {
+          "tv": true,
+          "fibe": true,
+          "tv-trickplay-startover": false,
+          "tv-trickplay-lookback": false,
+          "tv-trickplay-timeshift-rewind": false,
+          "tv-trickplay-timeshift-fastforward": false,
+          "tv-trickplay-timeshift-pause": false,
+          "fibe-trickplay-timeshift-rewind": false,
+          "fibe-trickplay-timeshift-fastforward": false,
+          "fibe-trickplay-timeshift-pause": false,
+          "nscreen-in-home-wifi": true,
+          "nscreen-out-of-home-wifi": true,
+          "nscreen-mobile": true,
+          "nscreen-trickplay-startover": false,
+          "nscreen-trickplay-lookback": false,
+          "nscreen-output-airplay": true,
+          "nscreen-output-chromecast": true,
+          "nscreen-output-mirroring": true,
+          "fibe-trickplay-startover": false,
+          "fibe-trickplay-lookback": false
+        },
+        "new": true
+      }
+    }]
+  },
+
+  {
+    "viewership": 2,
+    "program": {
+      "productionYear": null,
+      "episodeNumber": null,
+      "seasonNumber": null,
+      "closedCaption": false,
+      "programId": "10490397",
+      "title": "2016 World Women's Curling Championship - Canada vs. Japan",
+      "description": "From Swift Current, Sask.",
+      "seriesId": "361721-en",
+      "pvrSeriesId": "12372994",
+      "seasonId": null,
+      "episodeId": "18",
+      "showType": null,
+      "episodeTitle": "Canada vs. Japan",
+      "categories": [{
+        "category": "Sports",
+        "subcategory": "Other"
+      }],
+      "rating": null,
+      "advisories": [],
+      "artworks": [{
+        "ratio": "16:9",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c706/{resolution}.jpg",
+        "width": 1920,
+        "height": 1080
+      }, {
+        "ratio": "3:4",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c708/{resolution}.jpg",
+        "width": 1080,
+        "height": 1440
+      }, {
+        "ratio": "2:3",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c709/{resolution}.jpg",
+        "width": 960,
+        "height": 1440
+      }, {
+        "ratio": "4:3",
+        "type": "EPISODE_ICONIC",
+        "url": "programs/E/P/0/2/3/7/2/9/9/4/0/0/1/8/56e7e9b2b5ea616c0924c707/{resolution}.jpg",
+        "width": 1440,
+        "height": 1080
+      }],
+      "castAndCrew": null,
+      "originalAirDate": "24-MAR-16"
+    },
+    "channels": [{
+      "callSign": "NBC-B",
+      "format": null,
+      "schedule": {
+        "programId": "10490397",
+        "startTime": "2016-04-04T00:00:00Z",
+        "endTime": "2017-04-05T00:00:00Z",
+        "duration": 31536000,
+        "hd": true,
+        "title": "2016 World Women's Curling Championship - Canada vs. Japan",
+        "episodeTitle": "Canada vs. Japan",
+        "rating": null,
+        "closedCaption": true,
+        "descriptiveVideo": false,
+        "seriesId": "361721-en",
+        "pvrSeriesId": "12372994",
+        "ppvData": {
+          "eventId": null,
+          "price": null,
+          "purchaseWindowStartTime": null,
+          "purchaseWindowEndTime": null
+        },
+        "showType": null,
+        "availabilities": {
+          "tv": true,
+          "fibe": true,
+          "tv-trickplay-startover": false,
+          "tv-trickplay-lookback": false,
+          "tv-trickplay-timeshift-rewind": false,
+          "tv-trickplay-timeshift-fastforward": false,
+          "tv-trickplay-timeshift-pause": false,
+          "fibe-trickplay-timeshift-rewind": false,
+          "fibe-trickplay-timeshift-fastforward": false,
+          "fibe-trickplay-timeshift-pause": false,
+          "nscreen-in-home-wifi": true,
+          "nscreen-out-of-home-wifi": true,
+          "nscreen-mobile": true,
+          "nscreen-trickplay-startover": false,
+          "nscreen-trickplay-lookback": false,
+          "nscreen-output-airplay": true,
+          "nscreen-output-chromecast": true,
+          "nscreen-output-mirroring": true,
+          "fibe-trickplay-startover": false,
+          "fibe-trickplay-lookback": false
+        },
+        "new": true
+      }
+    }]
+  }
+]
