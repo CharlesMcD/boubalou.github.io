@@ -49,7 +49,7 @@
       "originalAirDate": "24-MAR-16"
     },
     "channels": [{
-      "callSign": "ICITo",
+      "callSign": "TSN1H",
       "format": null,
       "schedule": {
         "programId": "10490397",
@@ -147,7 +147,7 @@
       "originalAirDate": "24-MAR-16"
     },
     "channels": [{
-      "callSign": "V-MTL",
+      "callSign": "FOXHB",
       "format": null,
       "schedule": {
         "programId": "10490397",
@@ -245,7 +245,7 @@
       "originalAirDate": "24-MAR-16"
     },
     "channels": [{
-      "callSign": "TVAML",
+      "callSign": "TVASH",
       "format": null,
       "schedule": {
         "programId": "10490397",
@@ -343,7 +343,7 @@
       "originalAirDate": "24-MAR-16"
     },
     "channels": [{
-      "callSign": "METEO",
+      "callSign": "HIFI",
       "format": null,
       "schedule": {
         "programId": "10490397",
@@ -441,7 +441,7 @@
       "originalAirDate": "24-MAR-16"
     },
     "channels": [{
-      "callSign": "RDS",
+      "callSign": "TSN1H",
       "format": null,
       "schedule": {
         "programId": "10490397",
@@ -539,7 +539,7 @@
       "originalAirDate": "24-MAR-16"
     },
     "channels": [{
-      "callSign": "LCN",
+      "callSign": "LVNTR",
       "format": null,
       "schedule": {
         "programId": "10490397",
@@ -637,7 +637,7 @@
       "originalAirDate": "24-MAR-16"
     },
     "channels": [{
-      "callSign": "CTVTo",
+      "callSign": "CP24",
       "format": null,
       "schedule": {
         "programId": "10490397",
@@ -735,7 +735,7 @@
       "originalAirDate": "24-MAR-16"
     },
     "channels": [{
-      "callSign": "CBCTo",
+      "callSign": "CP24",
       "format": null,
       "schedule": {
         "programId": "10490397",
