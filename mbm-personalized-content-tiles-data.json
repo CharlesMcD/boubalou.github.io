@@ -1,0 +1,223 @@
+{
+    "tileContentData": [
+    {
+        "id": "1aec7c3c-b3ff-4d72-9e10-606456a651c5",
+        "name": "MYB_ALL_Billing_BillIsReady",
+        "iconClass": "icon-a16_bill_is_ready",
+        "title": "Your bill is ready to view and pay.",
+        "imageUrl": null,
+        "body": "Your latest bill is ready to view. You can also pay your bill in MyBell or sign up for pre-authorized payments.",
+        "shortBody": "Your bill is ready to view and pay.",
+        "linkUrl": "/Payment/MakePayment?AcctNo=8D711C5DA4B3704F0A5FE8ED0DB14122101405F300F375C6889BEA1EE198B738065D0EE847A224E21FFE143465147D35",
+        "linkText": "View and pay your bill",
+        "detailText": null,
+        "views": [
+        {
+            "viewType": "alert"
+        }],
+        "detailLinkText": "Details",
+        "learnMoreLinkText": "Learn more",
+        "viewLessText": "View less",
+        "viewMoreText": "View more",
+        "priority": "0.203"
+    },
+    {
+        "id": "0b2cde27-fd20-497d-be6a-be9f73a66b38",
+        "name": "MYB_INT_Support_PlanAndFeatureChanges",
+        "iconClass": null,
+        "title": "Visit our support section for hints and tips to help you make the most of your Internet service.",
+        "imageUrl": null,
+        "body": "Visit our support section for hints and tips to help you make the most of your Internet service.",
+        "shortBody": "Visit our support section for hints and tips to...",
+        "linkUrl": "http://fbsa-support.ids.int.bell.ca/Internet/Self-serve-options",
+        "linkText": "See Internet support",
+        "detailText": null,
+        "views": [
+        {
+            "viewType": "support"
+        }],
+        "detailLinkText": "Details",
+        "learnMoreLinkText": "Learn more",
+        "promoTitleText": "",
+        "viewLessText": "View less",
+        "viewMoreText": "View more",
+        "priority": "0.531"
+    },
+    {
+        "id": "0b2cde27-fd20-497d-be6a-be9f73a66b39",
+        "name": "MYB_INT_Service_AbandonedFlow",
+        "iconClass": "icon-a25_internet_modification",
+        "title": "Still want to change your Internet service?",
+        "imageUrl": null,
+        "body": "You recently started to modify your Internet service. If you would still like to make this change, you can follow the link below.",
+        "shortBody": "Still want to change your Internet service?",
+        "linkUrl": "/Internet/ChangeService/ChangeServices/SelectAService?AcctNo=8D711C5DA4B3704F0A5FE8ED0DB141220D666C9770E60E214FFA701AF6160107D184F2E8448CF23763FC91AE15D740A1",
+        "linkText": "Change your Internet service",
+        "omnitureTags": null,
+        "detailText": null,
+        "views": [
+        {
+            "viewType": "alert"
+        }],
+        "detailLinkText": "Details",
+        "learnMoreLinkText": "Learn more",
+        "promoTitleText": "",
+        "viewLessText": "View less",
+        "viewMoreText": "View more",
+        "priority": "0.849"
+    },
+    {
+        "id": "3466a897-2eac-4ca3-9eed-8b2168ef1571",
+        "name": "MYB_INT_Promo_PromoteActivityOnline",
+        "iconClass": "icon-i6_promote_activity_online_internet",
+        "title": "It's easy to manage your Internet service in MyBell.",
+        "imageUrl": null,
+        "body": "Thank you for using MyBell recently to modify your Internet service. Use MyBell anytime you want to check your usage, modify your features or package, or make other changes quickly and easily.",
+        "shortBody": "It's easy to manage your Internet service in...",
+        "linkUrl": "/Internet/Overview?acctNo=8D711C5DA4B3704F0A5FE8ED0DB141220D666C9770E60E214FFA701AF6160107D184F2E8448CF23763FC91AE15D740A1",
+        "linkText": "Manage your Internet service",
+        "detailText": null,
+        "views": [
+        {
+            "viewType": "info"
+        }],
+        "detailLinkText": "Details",
+        "learnMoreLinkText": "Learn more",
+        "promoTitleText": "",
+        "viewLessText": "View less",
+        "viewMoreText": "View more",
+        "priority": "0.001"
+    },
+    {
+        "id": "13682997-55f7-4885-b376-097b27227550",
+        "name": "MYB_MOB_Offer_HUGOffer",
+        "iconClass": null,
+        "title": "Upgrade to a new device starting at $0.",
+        "imageUrl": "/Styles/images/personalized_tiles/Bell/O7_HUG_Offer.png",
+        "body": "You're eligible for a $0 device upgrade. Ready to make a change? Upgrade today.",
+        "shortBody": "Upgrade to a new device starting at $0.",
+        "linkUrl": "/Mobility/MyPlanAndFeatures/HardwareSelection?AcctNo=8D711C5DA4B3704F0A5FE8ED0DB141228AD3CE3C696FB0C3E2E59295FF05BD51430F6AB980FD442F38D47F84070A2129&SubNo=92574542",
+        "linkText": "Upgrade your device",
+        "detailText": null,
+        "views": [
+        {
+            "viewType": "offer"
+        }],
+        "detailLinkText": "Details",
+        "learnMoreLinkText": "Learn more",
+        "promoTitleText": "",
+        "viewLessText": "View less",
+        "viewMoreText": "View more",
+        "priority": "0.759"
+    },
+    {
+        "id": "1dd01326-dc9b-4dae-a506-d5475ad58e57",
+        "name": "MYB_MOB_Support_PlanAndFeatureChanges",
+        "iconClass": null,
+        "title": "Visit our support section for hints and tips to help you make the most of your mobile phone and features.",
+        "imageUrl": null,
+        "body": "Visit our support section for hints and tips to help you make the most of your mobile phone and features.",
+        "shortBody": "Visit our support section for hints and tips to...",
+        "linkUrl": "http://fbsa-support.ids.int.bell.ca/Mobility/Rate_plans_features",
+        "linkText": "See Mobility support",
+        "detailText": null,
+        "views": [
+        {
+            "viewType": "support"
+        }],
+        "detailLinkText": "Details",
+        "learnMoreLinkText": "Learn more",
+        "promoTitleText": "",
+        "viewLessText": "View less",
+        "viewMoreText": "View more",
+        "priority": "0.756"
+    },
+    {
+        "id": "10e13680-6501-4de7-8dcd-d85f072dff6e",
+        "name": "MYB_MOB_Promo_PromoteActivityOnline",
+        "iconClass": "icon-i4_promote_activity_online_mobility",
+        "title": "It's easy to manage your Mobility service in MyBell.",
+        "imageUrl": null,
+        "body": "Thank you for using MyBell recently to modify your Mobility service. Use MyBell anytime you want to change your features, add data or make other changes quickly and easily.",
+        "shortBody": "It's easy to manage your Mobility service in...",
+        "linkUrl": "/Mobility?AcctNo=8D711C5DA4B3704F0A5FE8ED0DB141228AD3CE3C696FB0C3E2E59295FF05BD51430F6AB980FD442F38D47F84070A2129&SubNo=62399035",
+        "linkText": "Manage your Mobility service",
+        "detailText": null,
+        "views": [
+        {
+            "viewType": "info"
+        }],
+        "detailLinkText": "Details",
+        "learnMoreLinkText": "Learn more",
+        "promoTitleText": "",
+        "viewLessText": "View less",
+        "viewMoreText": "View more",
+        "priority": "0.182"
+    },
+    {
+        "id": "e4179d25-8701-4715-8fda-15149eed9275",
+        "name": "MYB_MOB_Support_TopArticles",
+        "iconClass": null,
+        "title": "Check out the top support articles related to your Mobility service.",
+        "imageUrl": null,
+        "body": "Check out the top support articles related to your Mobility service.",
+        "shortBody": "Check out the top support articles related to your...",
+        "linkUrl": "http://fbsa-support.ids.int.bell.ca/Customer_service/Knowledge_centre/?kc-category=MOBILE",
+        "linkText": "See support for your Mobility service",
+        "detailText": null,
+        "views": [
+        {
+            "viewType": "support"
+        }],
+        "detailLinkText": "Details",
+        "learnMoreLinkText": "Learn more",
+        "promoTitleText": "",
+        "viewLessText": "View less",
+        "viewMoreText": "View more",
+        "priority": "0.285"
+    },
+    {
+        "id": "fe39a242-0425-45c0-ba2d-7908f4466228",
+        "name": "MYB_INT_Support_TopArticles",
+        "iconClass": null,
+        "title": "Check out the top support articles related to your Internet service.",
+        "imageUrl": null,
+        "body": "Check out the top support articles related to your Internet service.",
+        "shortBody": "Check out the top support articles related to your...",
+        "linkUrl": "http://fbsa-support.ids.int.bell.ca/Billing-and-Accounts/Knowledge_centre?kc-category=MODEMS_CONNECTIONS_AND_HOME_NETWORKS#articleList",
+        "linkText": "See support for your Internet service",
+        "detailText": null,
+        "views": [
+        {
+            "viewType": "support"
+        }],
+        "detailLinkText": "Details",
+        "learnMoreLinkText": "Learn more",
+        "promoTitleText": "",
+        "viewLessText": "View less",
+        "viewMoreText": "View more",
+        "priority": "0.213"
+    },
+    {
+        "id": "ff3480df-d3af-47d5-8eec-f8c7055019dc",
+        "name": "MYB_TV_Service_AbandonedFlow",
+        "iconClass": "icon-a17_resume_changes_in_progress",
+        "title": "Still want to change your TV channels? Pick up where you left off.",
+        "imageUrl": null,
+        "body": "If you would like to complete the change you were recently making to your TV channel lineup, you can do so by following the link below.",
+        "shortBody": "Still want to change your TV channels? Pick up...",
+        "linkUrl": "/TV/Programming/Brochure?AcctNo=8D711C5DA4B3704F0A5FE8ED0DB14122CD6070A0852D0643BBB15F1F653C60B0432BA77253D4DE60479A5A4EE6410072&NewFlow=true",
+        "linkText": "Resume your TV changes",
+        "detailText": null,
+        "views": [
+        {
+            "viewType": "alert"
+        }],
+        "detailLinkText": "Details",
+        "learnMoreLinkText": "Learn more",
+        "promoTitleText": "",
+        "viewLessText": "View less",
+        "viewMoreText": "View more",
+        "priority": "0.715"
+    }]
+}
