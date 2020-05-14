@@ -1,0 +1,20 @@
+[
+   {
+      "bannerType":"Primary",
+      "bannerImagePath":"/Resource/web/images/graphic_banner_top_up.png",
+      "bannerTitle":"Get an amazing bonus",
+      "bannerDescription":"Register for Automatic Top-Up and get a bonus with select plans.",
+      "bannerLink":"InternalTopUpFlow",
+      "bannerLinkType":"Internal",
+      "bannerOptionalTitle":"Sign up for autoTop-Up."
+   },
+   {
+      "bannerType":"Secondary",
+      "bannerImagePath":"/Resource/web/images/graphic_banner_international.png",
+      "bannerTitle":"Affordable International calling.",
+      "bannerDescription":"Stay in touch with friends and family for just pennies a minute.",
+      "bannerLink":"InternalARFFlow",
+      "bannerLinkType":"Internal",
+      "bannerOptionalTitle":"Add International Calling to your account"
+   }
+]
