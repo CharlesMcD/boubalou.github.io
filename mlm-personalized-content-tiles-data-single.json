@@ -1,20 +1,50 @@
-[
-   {
-      "bannerType":"Primary",
-      "bannerImagePath":"/Resource/web/images/graphic_banner_top_up.png",
-      "bannerTitle":"Get an amazing bonus",
-      "bannerDescription":"Register for Automatic Top-Up and get a bonus with select plans.",
-      "bannerLink":"InternalTopUpFlow",
-      "bannerLinkType":"Internal",
-      "bannerOptionalTitle":"Sign up for autoTop-Up."
-   },
-   {
-      "bannerType":"Secondary",
-      "bannerImagePath":"/Resource/web/images/graphic_banner_international.png",
-      "bannerTitle":"Affordable International calling.",
-      "bannerDescription":"Stay in touch with friends and family for just pennies a minute.",
-      "bannerLink":"InternalARFFlow",
-      "bannerLinkType":"Internal",
-      "bannerOptionalTitle":"Add International Calling to your account"
-   }
-]
+{
+   "tileContentData":[
+      {
+         "id":"70df7e18-fe13-4ef5-b310-23eb0bcf534c",
+         "name":"MYL_MOB_Service_RoamingModifyPackageOrService",
+         "isExperimentEnabled":false,
+         "experimentId":"123123",
+         "styles":null,
+         "groupCategory":"Service",
+         "iconClass":"icon-i24_add_a_line",
+         "category":"International calling Mobile number: (416) 427-6833",
+         "title":"Stay in touch with family and friends for pennies a minute.",
+         "imageUrl":null,
+         "body":"Add affordable International Calling to your plan with our International Calling Add-Ons.",
+         "shortBody":"Stay in touch with family and friends for pennies...",
+         "linkUrl":"/Mobility/MyPlanAndFeatures?AcctNo=6DAA53865CC133A684C9DE5EB79B69EE92598A949E37505772F8F730115636EC18DD04BA2299E2A05DE8688D53AAC69C&SubNo=21701889&isPendingTransaction=true",
+         "linkText":"Add International calling to your plan",
+         "omnitureTags":null,
+         "usage":null,
+         "viewPath":null,
+         "detailText":null,
+         "views":[
+
+         ],
+         "links":[
+
+         ],
+         "detailLinkText":"Details",
+         "learnMoreLinkText":"Learn more",
+         "promoTitleText":"",
+         "viewLessText":"View less",
+         "viewMoreText":"View more",
+         "labelsText":{
+            "usagetext":"used"
+         },
+         "tileSequence":"1",
+         "priority":"0.490",
+         "prioritySource":"ODM",
+         "priorityModelID":null,
+         "isMobilityOffer":false,
+         "position":"Top",
+         "pageName":"Mobilityoverviewpage",
+         "viewType":"info"
+      }
+   ],
+   "correlationId":"9516a90b-3094-4308-a772-19862092dad2",
+   "messageList":[
+
+   ]
+}
