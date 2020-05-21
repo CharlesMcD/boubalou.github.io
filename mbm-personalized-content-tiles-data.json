@@ -338,7 +338,7 @@
             "prioritySource": "ODM-Default-no-value",
             "priorityModelID": null,
             "isMobilityOffer": false,
-            "position": "Bottom",
+            "position": "Middle",
             "pageName": "MyBill",
             "viewType": "support"
         },
@@ -376,7 +376,7 @@
             "prioritySource": "ODM-Default-no-value",
             "priorityModelID": null,
             "isMobilityOffer": false,
-            "position": "Bottom",
+            "position": "Middle",
             "pageName": "MyProfile",
             "viewType": "support"
         },
@@ -414,7 +414,7 @@
             "prioritySource": "ODM-Default-no-value",
             "priorityModelID": null,
             "isMobilityOffer": false,
-            "position": "Bottom",
+            "position": "Middle",
             "pageName": "MobilityDevice",
             "viewType": "support"
         },
@@ -452,7 +452,7 @@
             "prioritySource": "ODM-Default-no-value",
             "priorityModelID": null,
             "isMobilityOffer": false,
-            "position": "Bottom",
+            "position": "Middle",
             "pageName": "MobilityOverview",
             "viewType": "support"
         },
@@ -490,7 +490,7 @@
             "prioritySource": "ODM-Default-no-value",
             "priorityModelID": null,
             "isMobilityOffer": false,
-            "position": "Bottom",
+            "position": "Middle",
             "pageName": "MobilityDevice",
             "viewType": "support"
         },
@@ -528,7 +528,7 @@
             "prioritySource": "ODM-Default-no-value",
             "priorityModelID": null,
             "isMobilityOffer": false,
-            "position": "Bottom",
+            "position": "Middle",
             "pageName": "MobilityOverview",
             "viewType": "support"
         }
