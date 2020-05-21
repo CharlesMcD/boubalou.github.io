@@ -164,7 +164,7 @@
          "prioritySource":"ODM",
          "priorityModelID":null,
          "isMobilityOffer":false,
-         "position":"Bottom",
+         "position":"Middle",
          "pageName":"Mobilityoverviewpage",
          "viewType":"alert"
       }
