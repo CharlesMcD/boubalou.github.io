@@ -1,0 +1,42 @@
+{
+	"tileContentData": [{
+		"id": "c3b15b0a-5d91-48db-969f-a840ce834379",
+		"name": "MYL_ALL_Support_PaymentCompleted",
+		"isExperimentEnabled": false,
+		"experimentId": "123123",
+		"styles": null,
+		"groupCategory": "Support",
+		"iconClass": "",
+		"category": "Helpful Tip",
+		"title": "There are several ways to Top-Up. The easiest method is Automatic Top-Up. Or, add funds to your account anytime by doing a Manual Top-Up.",
+		"imageUrl": null,
+		"body": "There are several ways to Top-Up. The easiest method is Automatic Top-Up. Or, add funds to your account anytime by doing a Manual Top-Up.",
+		"shortBody": "There are several ways to Top-Up. The easiest...",
+		"linkUrl": "https://www.luckymobile.ca/support/balance-top-up/how-to-top-up",
+		"linkText": "Learn more about the ways to Top-Up",
+		"omnitureTags": null,
+		"usage": null,
+		"viewPath": null,
+		"detailText": null,
+		"views": [],
+		"links": [],
+		"detailLinkText": "Details",
+		"learnMoreLinkText": "Learn more",
+		"promoTitleText": "",
+		"viewLessText": "View less",
+		"viewMoreText": "View more",
+		"labelsText": {
+			"usagetext": "used"
+		},
+		"tileSequence": "1",
+		"priority": "0.001",
+		"prioritySource": "ODM-Default-no-value",
+		"priorityModelID": null,
+		"isMobilityOffer": false,
+		"position": "Top",
+		"pageName": "Support",
+		"viewType": "standard"
+	}],
+	"correlationId": "fea9a47f-86bd-4185-9c32-d79e877fe7c0",
+	"messageList": []
+}
