@@ -1,19 +1,19 @@
 {
 	"tileContentData": [{
-		"id": "c3b15b0a-5d91-48db-969f-a840ce834379",
-		"name": "MYL_ALL_Support_PaymentCompleted",
+		"id": "20d0618e-98ea-46b8-b7bc-5552b66d6c56",
+		"name": "MYL_ALL_Billing_PaymentReceived",
 		"isExperimentEnabled": false,
 		"experimentId": "123123",
 		"styles": null,
-		"groupCategory": "Support",
-		"iconClass": "",
-		"category": "Helpful Tip",
-		"title": "There are several ways to Top-Up. The easiest method is Automatic Top-Up. Or, add funds to your account anytime by doing a Manual Top-Up.",
+		"groupCategory": "Billing",
+		"iconClass": "icon-i16_bill_is_ready",
+		"category": "Automatic Top-Up Account number: 532932428",
+		"title": "Register for Automatic Top-Up and get a bonus with select plans. It’s the easiest way to pay for your Lucky Mobile service.",
 		"imageUrl": null,
-		"body": "There are several ways to Top-Up. The easiest method is Automatic Top-Up. Or, add funds to your account anytime by doing a Manual Top-Up.",
-		"shortBody": "There are several ways to Top-Up. The easiest...",
-		"linkUrl": "https://www.luckymobile.ca/support/balance-top-up/how-to-top-up",
-		"linkText": "Learn more about the ways to Top-Up",
+		"body": "Avoid the hassle and never miss a payment with Automatic Top-Up. </BR></BR> The easiest way to pay for your service. We’ll automatically add funds from your credit card, Visa Debit or bank account to your account balance every month to cover your Total Monthly Charges. Plus, <a href=\"https://www.luckymobile.ca/offers/auto-top-up-bonus\"> you could be eligible for an amazing bonus</a>. You can cancel Automatic Top-Up at any time.",
+		"shortBody": "Register for Automatic Top-Up and get a bonus with...",
+		"linkUrl": "/Mobility/Prepaid/PreauthorizedTopups?AcctNo=8D711C5DA4B3704F0A5FE8ED0DB1412210986D7FCA978B89664BB18232DCBE4645DD2C6B20FECF73C51B77A3D54660F4&SubNo=12035949",
+		"linkText": "Register for Automatic Top-Up",
 		"omnitureTags": null,
 		"usage": null,
 		"viewPath": null,
@@ -28,15 +28,15 @@
 		"labelsText": {
 			"usagetext": "used"
 		},
-		"tileSequence": "1",
-		"priority": "0.001",
-		"prioritySource": "ODM-Default-no-value",
+		"tileSequence": "2",
+		"priority": "0.459",
+		"prioritySource": "ODM",
 		"priorityModelID": null,
 		"isMobilityOffer": false,
 		"position": "Top",
-		"pageName": "Support",
+		"pageName": "MainLandingpage",
 		"viewType": "standard"
 	}],
-	"correlationId": "fea9a47f-86bd-4185-9c32-d79e877fe7c0",
-	"messageList": []
+	"correlationId": "3f930861-51ff-4fb6-9c79-4c88d3d686a4",
+	"messageList": ["Attribute *subscriberNumber* value is missing in eSide response, for tile MYL_ALL_Promo_PaymentInCare (f71fbe18-c79c-487f-a38d-47f84fde2cba)"]
 }
