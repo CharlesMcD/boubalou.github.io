@@ -1,0 +1,50 @@
+{
+   "tileContentData":[
+      {
+         "id":"70df7e18-fe13-4ef5-b310-23eb0bcf534f",
+         "name":"MYL_MOB_Service_RoamingModifyPackageOrService",
+         "isExperimentEnabled":false,
+         "experimentId":"123123",
+         "styles":null,
+         "groupCategory":"Service",
+         "iconClass":"icon-a28_credit_card_expiration_date",
+         "category":"(416) 427-6833",
+         "title":"Don't miss the event",
+         "imageUrl":"https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Super_Bowl_logo.svg/220px-Super_Bowl_logo.svg.png",
+         "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+         "shortBody":"Don't miss the event!",
+         "linkUrl":"/Mobility/MyPlanAndFeatures?AcctNo=6DAA53865CC133A684C9DE5EB79B69EE92598A949E37505772F8F730115636EC18DD04BA2299E2A05DE8688D53AAC69C&SubNo=21701889&isPendingTransaction=true",
+         "linkText":"Update info",
+         "omnitureTags":null,
+         "usage":null,
+         "viewPath":null,
+         "detailText":null,
+         "views":[
+
+         ],
+         "links":[
+
+         ],
+         "detailLinkText":"Details",
+         "learnMoreLinkText":"Learn more",
+         "promoTitleText":"",
+         "viewLessText":"Maybe later",
+         "viewMoreText":"View more",
+         "labelsText":{
+            "usagetext":"used"
+         },
+         "tileSequence":"1",
+         "priority":"0.490",
+         "prioritySource":"ODM",
+         "priorityModelID":null,
+         "isMobilityOffer":false,
+         "position":"Middle",
+         "pageName":"Mobilityoverviewpage",
+         "viewType":"offer"
+      }
+   ],
+   "correlationId":"9516a90b-3094-4308-a772-19862092dad2",
+   "messageList":[
+
+   ]
+}
