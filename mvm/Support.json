@@ -1,0 +1,42 @@
+{
+	"tileContentData": [{
+		"id": "b7c17af5-f592-4a96-8784-475a6b34f0e8",
+		"name": "MYV_MOB_Support_PlanChange",
+		"isExperimentEnabled": false,
+		"experimentId": "123123",
+		"styles": null,
+		"groupCategory": "Support",
+		"iconClass": null,
+		"category": "Mobility support",
+		"title": "Here’s some support articles to help you with your mobility service (rate plan, add-ons and other features).",
+		"imageUrl": null,
+		"body": "Here’s some support articles to help you with your mobility service (rate plan, add-ons and other features).",
+		"shortBody": "Here’s some support articles to help you with your...",
+		"linkUrl": "https://www.virginmobile.ca/en/features/index.html",
+		"linkText": "Support page",
+		"omnitureTags": null,
+		"usage": null,
+		"viewPath": null,
+		"detailText": null,
+		"views": [],
+		"links": [],
+		"detailLinkText": "Details",
+		"learnMoreLinkText": "Learn more",
+		"promoTitleText": "",
+		"viewLessText": "View less",
+		"viewMoreText": "View more",
+		"labelsText": {
+			"usagetext": "used"
+		},
+		"tileSequence": "1",
+		"priority": "0.800",
+		"prioritySource": "ODM",
+		"priorityModelID": null,
+		"isMobilityOffer": false,
+		"position": "Top",
+		"pageName": "Support",
+		"viewType": "support"
+	}],
+	"correlationId": "d7129f0f-2870-4a0b-bb24-80844cc239c8",
+	"messageList": []
+}
