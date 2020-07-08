@@ -202,7 +202,7 @@
           "prioritySource": "ODM-Default-no-value",
           "priorityModelID": null,
           "isMobilityOffer": true,
-          "position": "Top",
+          "position": "Bottom",
           "pageName": "MainLandingpage",
           "viewType": "offer"
       }
