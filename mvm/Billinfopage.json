@@ -164,7 +164,7 @@
 		"pageName": "Mobilityoverviewpage",
 		"viewType": "offer"
 	},
-	, {
+	{
 		"id": "70df7e18-fe13-4ef5-b310-23eb0bcf512b",
 		"name": "MYL_MOB_Service_RoamingModifyPackageOrService",
 		"isExperimentEnabled": false,
