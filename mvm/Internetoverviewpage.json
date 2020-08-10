@@ -32,10 +32,10 @@
 		"priority": "0.001",
 		"prioritySource": "ODM-Default-no-value",
 		"priorityModelID": null,
-		"isMobilityOffer": false,
+		"isMobilityOffer": true,
 		"position": "Top",
 		"pageName": "Internetoverviewpage",
-		"viewType": "info"
+		"viewType": "offer"
 	}],
 	"correlationId": "9b8578ec-6eb6-492c-b3b2-7a37dfa5b090",
 	"messageList": []
